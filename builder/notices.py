@@ -64,10 +64,14 @@ def _clean(text: str | None) -> str:
 def tidy_title(title: str) -> str:
     """'PRO0663 - GROUNDS MAINTENANCE SERVICES' -> 'Grounds Maintenance Services'."""
     t = _clean(title).replace("\n", " ")
+    t = re.sub(r"^UK\d{1,2}\s+", "", t)                                                             # the notice type, "UK4 "
     t = re.sub(r"^(?:[A-Za-z]{2,6}\s)?(?=\S*\d)[A-Za-z0-9/_.\-]{2,18}\s*[-–—:~|]\s+", "", t)   # "PRO0663 - ", "ITT 62/2026 - "
     t = re.sub(r"^[A-Z]{2,6}[ -]?\d{4,6}\s+(?=[A-Z])", "", t)                                      # "HBC 1026 Provision..."
-    t = re.sub(r"^(itt|rfq|rft|tender|contract|provision|the provision)\s+(for|of)\s+(the\s+)?", "", t, flags=re.I)
-    t = re.sub(r"\s*\((?=[^)]*\d)[A-Za-z0-9/_.\-]{4,20}\)\s*$", "", t)         # a trailing "(FH2610191)"
+    for _ in range(3):                                                                               # "Contract for the Provision of ..."
+        t = re.sub(r"^invitation (to tender|to quote|for expressions? of interest)\s*(for\b|[-–—:])?\s*(the\s+)?", "",
+                   t, flags=re.I)
+        t = re.sub(r"^(itt|rfq|rft|tender|contract|provision|the provision)\s+(for|of)\s+(the\s+)?", "", t, flags=re.I)
+    t = re.sub(r"\s*\((?=[^)]*[A-Za-z])(?=[^)]*\d)[A-Za-z0-9/_.\-]{4,20}\)\s*$", "", t)         # a trailing "(FH2610191)"
     t = re.sub(r"\s*[-–—~|]\s*$", "", t).strip()
     if t and t == t.upper() and len(t) > 6:
         t = t.title()
@@ -218,10 +222,13 @@ def from_release(src: str, release: dict) -> dict | None:
 LOCAL_BUYERS = ("parish", "council", "school", "university", "housing", "nhs", "emergency")
 
 
-def retidy(n: dict) -> None:
-    """Re-apply the tidying rules to a stored notice, so a change to them shows on tenders already fetched."""
+def retidy(n: dict) -> bool:
+    """Re-apply the tidying and trade rules to a stored notice, so a change to them shows on tenders already
+    fetched. Returns False if it no longer belongs to any trade."""
     n["title"] = tidy_title(n.get("raw_title") or n["title"])
     n["buyer"] = tidy_name(n["buyer"])
+    n["trades"] = match_trades(n.get("raw_title") or n["title"], n["cpv"])
+    return bool(n["trades"])
 
 
 def locate(n: dict, postcode_areas: dict[str, str]) -> None:

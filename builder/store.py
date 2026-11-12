@@ -35,8 +35,7 @@ def load() -> dict:
     data = _read(NOTICES, {})
     data.setdefault("notices", {})
     data.setdefault("fetched_to", "")
-    for n in data["notices"].values():
-        notices.retidy(n)
+    data["notices"] = {nid: n for nid, n in data["notices"].items() if notices.retidy(n)}
     return data
 
 

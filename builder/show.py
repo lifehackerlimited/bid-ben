@@ -83,19 +83,17 @@ def day_text(d: dt.date) -> str:
 
 
 def deadline_html(n: dict, a: dict, today: dt.date, tag: str = "span", label: bool = True, static: bool = False) -> str:
-    """The deadline, with a hook for the page's script to add "(5 days left)". static=True writes the days in,
-    for email, where scripts don't run."""
+    """The deadline, with a hook for the page's script to add "(5 days left)". static=True is for email, where
+    scripts don't run: it gives the date alone, which stays true whichever day the email is opened."""
     d = a["deadline"]
     name = "Ask to take part by" if n.get("deadline_kind") == "interest" else "Deadline"
     lead = f"<b>{name}:</b> " if label else ("Ask to take part by " if n.get("deadline_kind") == "interest" else "")
     if not d:
         return f"<{tag}>{lead}not given: check the notice</{tag}>"
-    left = ""
-    if static and a["days_left"] is not None:
-        days = a["days_left"]
-        left = " (closed)" if days < 0 else " (today)" if days == 0 else " (tomorrow)" if days == 1 else f" ({days} days)"
+    if static:
+        return f"<{tag}>{lead}{E(when_text(d, today))}</{tag}>"
     return (f'<{tag} data-deadline="{E(d.isoformat())}">{lead}{E(when_text(d, today))}'
-            f'<span class="left">{left}</span></{tag}>')
+            f'<span class="left"></span></{tag}>')
 
 
 def place_text(n: dict, a: dict) -> str:

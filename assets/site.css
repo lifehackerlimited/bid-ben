@@ -110,6 +110,7 @@ table.list small { color: var(--muted); }
 .signup .status { grid-column: 1 / -1; font-size: 15px; margin: 0; min-height: 0; }
 .signup .status.ok { background: #d6f0df; color: #134e2f; border-radius: 8px; padding: 12px 14px; }
 .signup .status.bad { background: #fdecea; color: #7b2318; border-radius: 8px; padding: 12px 14px; }
+.signup [hidden] { display: none !important; }
 .hp { position: absolute !important; left: -9999px !important; width: 1px; height: 1px; overflow: hidden; }
 
 /* issue pages */

@@ -55,7 +55,7 @@ TRADES = {
         "cpv": ("772113", "772114", "772115", "7734"),
         "not_cpv": (),
         "title": r"\barboricultur|\btree (work|surgery|felling|maintenance|safety|surve|management|removal|"
-                 r"pruning|planting|inspection|services|and stump)|\btrees?\b.*\b(works|maintenance)\b|\bstump",
+                 r"pruning|planting|inspection|services|and stump)|\btrees?\s+(\w+\s+){0,2}(works?|maintenance)\b|\bstump",
         "not_title": r"\bdecision tree|\btree house|\bchristmas tree",
     },
     "pest-control": {

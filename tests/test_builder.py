@@ -85,6 +85,9 @@ class Trades(unittest.TestCase):
         ("Christmas Light Trail for Sir Harold Hillier Gardens", ["92000000"], []),
         ("Street Cleansing Services", ["90610000"], []),
         ("Clean Air Zone signage", ["34992200"], []),
+        ("PLACE1155H Lime Tree Wood (Beeley) Landslip- Repair Works", ["45222000"], []),
+        ("Trees and hedges maintenance", ["77340000"], ["grounds-maintenance", "tree-work"]),
+        ("DPS1 1428 - Highway Tree Works", ["71000000"], ["tree-work"]),
     ]
 
     def test_real_titles(self):
@@ -105,6 +108,27 @@ class Notices(unittest.TestCase):
         self.assertEqual(n["url"], "https://www.find-tender.service.gov.uk/Notice/1-2026")
         self.assertEqual(n["contact"]["email"], "clerk@example.gov.uk")
         self.assertEqual(n["published"], "2026-11-03")
+
+    def test_titles_are_tidied(self):
+        for raw, want in (
+                ("Invitation to Tender for the Management of the Cleaning Services at Greenhead College",
+                 "Management of the Cleaning Services at Greenhead College"),
+                ("Invitation to Tender - Window Cleaning Wirral 2026", "Window Cleaning Wirral 2026"),
+                ("Contract for the Provision of cleaning services at Swansea City Bus Station",
+                 "Cleaning services at Swansea City Bus Station"),
+                ("UK4 NRW Land Management General Site Maintenance Framework",
+                 "NRW Land Management General Site Maintenance Framework"),
+                ("TENDER FOR WINTER GRITTING AND SNOW CLEARANCE", "Winter Gritting And Snow Clearance"),
+                ("Provision of Pest Control & Associated Services (2027-31)", "Pest Control & Associated Services (2027-31)"),
+                ("Pest Control Services Concession 2027-30 (FH2610191)", "Pest Control Services Concession 2027-30"),
+                ("HBC 1026 Provision of Arboriculture Services", "Arboriculture Services"),
+                ("DPS1 1428 - Tree Work", "DPS1 1428 - Tree Work"),
+                ("NHS 111 Cleaning", "NHS 111 Cleaning")):
+            self.assertEqual(notices.tidy_title(raw), want)
+        self.assertEqual(notices.tidy_name("HYTHE TOWN COUNCIL"), "Hythe Town Council")
+        self.assertEqual(notices.tidy_name("WIRRAL COMMUNITY HEALTH AND CARE NHS FOUNDATION TRUST"),
+                         "Wirral Community Health and Care NHS Foundation Trust")
+        self.assertEqual(notices.tidy_name("Ongo Homes"), "Ongo Homes")
 
     def test_placeholder_values_are_not_values(self):
         self.assertIsNone(notice("Grass cutting", value=1)["value"])
@@ -210,7 +234,7 @@ class Wording(unittest.TestCase):
         a = notices.assess(n, TODAY)
         self.assertEqual(show.value_text(n, a), "£28,000 over 3 years (about £9k a year)")
         self.assertIn("Fri 20 Nov, 17:00", show.deadline_html(n, a, TODAY))
-        self.assertIn("(8 days)", show.deadline_html(n, a, TODAY, static=True))
+        self.assertEqual(show.deadline_html(n, a, TODAY, static=True), "<span><b>Deadline:</b> Fri 20 Nov, 17:00</span>")
 
     def test_the_same_tender_on_both_feeds_is_shown_once(self):
         a = notice("Graffiti removal", buyer="London Borough of Merton", cpv=("90690000",))
@@ -281,7 +305,8 @@ class Site(unittest.TestCase):
         self.assertIn(issue.NEAR_YOU, email)
         self.assertIn("2 new public tenders this week", email)
         self.assertIn("notices published 2–8 November", email)
-        self.assertIn("(8 days)", email)                        # days are written in, as email can't run scripts
+        self.assertIn("Fri 20 Nov, 17:00", email)
+        self.assertNotIn("days left", email)                    # dates only: "8 days left" would be wrong by Thursday
         self.assertIn("reply with the word <b>unsubscribe</b>", email)
         self.assertNotIn("<script", email)
         meta = json.loads(self.read("issues/2026-11-09/issue.json"))

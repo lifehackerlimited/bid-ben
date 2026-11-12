@@ -15,7 +15,7 @@ import datetime as dt
 import json
 from pathlib import Path
 
-from . import notices, show
+from . import notices, places, show
 from .settings import COMPANY, OFFICE, SITE
 from .show import E
 
@@ -125,7 +125,8 @@ def _body(new: list, closing: list, monday: dt.date, as_of: dt.date, static: boo
         stats.append(f'<div class="stat"><b>{parish}</b><span>from parish and town councils, the easiest first '
                      f'bids</span></div>')
     alert = ""
-    soon = [na for na in new if na[1]["days_left"] is not None and na[1]["days_left"] <= 7][:5] + closing[:5]
+    soon = [na for na in new if na[1]["days_left"] is not None and na[1]["days_left"] <= 7
+            and na[1]["section"] not in ("framework", "list-only")][:5] + closing[:5]
     if soon:
         lines = "".join(
             f'<li><a href="{E(n["url"])}">{E(n["title"])}</a>, {E(n["buyer"])}: '
@@ -260,7 +261,8 @@ def build(data: dict, monday: dt.date, today: dt.date, force: bool = False) -> d
     meta = {"date": monday.isoformat(), "title": title, "count": len(new),
             "best": sum(1 for _, a in new if a["section"] == "best"),
             "parish": sum(1 for _, a in new if a["buyer_type"] == "parish"),
-            "built": as_of.isoformat(), "entries": entries}
+            "built": as_of.isoformat(), "entries": entries,
+            "areas": {slug: a["name"] for slug, a in places.AREAS.items()}}
     meta_path.write_text(json.dumps(meta, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     latest = ROOT / "issues" / "latest.json"
     try:

@@ -56,8 +56,8 @@
         .then(function () {
           form.querySelectorAll('label, button, .small').forEach(function (el) { el.hidden = true; });
           status.className = 'status ok';
-          status.textContent = "You're on the list. We'll send a welcome email to " + email +
-            ', and your first issue arrives on Monday morning.';
+          status.textContent = "You're on the list. A welcome email and the latest issue will reach " + email +
+            ' on the next working morning, then a new issue every Monday.';
         })
         .catch(function () {
           button.disabled = false;
