@@ -27,9 +27,18 @@ def _today(args: list[str]) -> dt.date:
 def cmd_fetch(args: list[str]) -> None:
     today = _today(args)
     end = dt.date.fromisoformat(_arg(args, "--to") or today.isoformat())
-    start = dt.date.fromisoformat(_arg(args, "--from") or (end - dt.timedelta(days=int(_arg(args, "--days", "4")) - 1)).isoformat())
     data = store.load()
-    counts = store.fetch(data, start, end)
+    if _arg(args, "--from"):
+        start = dt.date.fromisoformat(_arg(args, "--from"))
+    else:
+        start = end - dt.timedelta(days=int(_arg(args, "--days", "4")) - 1)
+        if data["fetched_to"]:          # missed some days? Catch up from the last one fetched (three weeks at most)
+            start = max(min(start, dt.date.fromisoformat(data["fetched_to"])), end - dt.timedelta(days=21))
+    counts = {"new": 0, "updated": 0, "ended": 0}
+    for day in (start + dt.timedelta(days=i) for i in range((end - start).days + 1)):
+        for what, n in store.fetch(data, day, day).items():
+            counts[what] += n
+        store.save(data)            # after every day, so a long first run that's cut short loses nothing
     dropped = store.prune(data, today)
     store.save(data)
     print(f"Fetched {start} to {end}: {counts['new']} new, {counts['updated']} updated, {counts['ended']} awarded or "

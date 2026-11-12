@@ -67,11 +67,23 @@ def tidy_title(title: str) -> str:
     t = re.sub(r"^(?:[A-Za-z]{2,6}\s)?(?=\S*\d)[A-Za-z0-9/_.\-]{2,18}\s*[-–—:~|]\s+", "", t)   # "PRO0663 - ", "ITT 62/2026 - "
     t = re.sub(r"^[A-Z]{2,6}[ -]?\d{4,6}\s+(?=[A-Z])", "", t)                                      # "HBC 1026 Provision..."
     t = re.sub(r"^(itt|rfq|rft|tender|contract|provision|the provision)\s+(for|of)\s+(the\s+)?", "", t, flags=re.I)
+    t = re.sub(r"\s*\((?=[^)]*\d)[A-Za-z0-9/_.\-]{4,20}\)\s*$", "", t)         # a trailing "(FH2610191)"
     t = re.sub(r"\s*[-–—~|]\s*$", "", t).strip()
     if t and t == t.upper() and len(t) > 6:
         t = t.title()
         t = re.sub(r"\b(Nhs|Uk|Dps|Ha|Mat|Cofe|Ce|Rc|Fm)\b", lambda m: m.group(1).upper(), t)
     return t[:1].upper() + t[1:] if t else _clean(title)
+
+
+def tidy_name(name: str) -> str:
+    """'HYTHE TOWN COUNCIL' -> 'Hythe Town Council'. Names already in mixed case are left alone."""
+    name = _clean(name).replace("\n", " ")
+    if not name.isupper() or len(name) < 5:
+        return name
+    name = re.sub(r"\b(Of|And|The|For|In|On|At|With|Upon)\b", lambda m: m.group(1).lower(), name.title())
+    name = re.sub(r"\b(Nhs|Uk|Ha|Mat|Ce|Rc|Fm|Ni|Llp|Cic|Gp|Ii|Iii)\b", lambda m: m.group(1).upper(), name)
+    name = re.sub(r"'S\b", "'s", name)
+    return name[:1].upper() + name[1:]
 
 
 def _cpv(tender: dict) -> list[str]:
@@ -183,8 +195,8 @@ def from_release(src: str, release: dict) -> dict | None:
     return {
         "id": nid, "src": src, "url": url, "title": title, "raw_title": _clean(tender.get("title"))[:300],
         "desc": desc[:DESC_LIMIT], "trades": trades, "cpv": cpv[:12],
-        "buyer": _clean(buyer.get("name") or (release.get("buyer") or {}).get("name")),
-        "buyer_town": _clean(addr.get("locality")).title() if _clean(addr.get("locality")).isupper()
+        "buyer": tidy_name(buyer.get("name") or (release.get("buyer") or {}).get("name") or ""),
+        "buyer_town": tidy_name(addr.get("locality") or "").title() if _clean(addr.get("locality")).isupper()
         else _clean(addr.get("locality")),
         "buyer_postcode": _clean(addr.get("postalCode")).upper(), "buyer_code": _clean(addr.get("region")).upper(),
         "codes": sorted(set(codes)), "postcodes": sorted(set(postcodes))[:6],
@@ -204,6 +216,12 @@ def from_release(src: str, release: dict) -> dict | None:
 
 
 LOCAL_BUYERS = ("parish", "council", "school", "university", "housing", "nhs", "emergency")
+
+
+def retidy(n: dict) -> None:
+    """Re-apply the tidying rules to a stored notice, so a change to them shows on tenders already fetched."""
+    n["title"] = tidy_title(n.get("raw_title") or n["title"])
+    n["buyer"] = tidy_name(n["buyer"])
 
 
 def locate(n: dict, postcode_areas: dict[str, str]) -> None:
@@ -291,7 +309,7 @@ def assess(n: dict, today: dt.date) -> dict:
     if not deadline:
         flags.append("no-deadline")
 
-    if n["calloff"] or n["method"] == "limited":
+    if n["calloff"]:
         section, fit = "list-only", "low"
     elif n["framework"]:
         section, fit = "framework", "medium"

@@ -26,7 +26,7 @@ img { max-width: 100%; }
 .hero .wrap { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 36px; align-items: center; }
 .hero .kicker, .kicker { font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-dark); margin: 0 0 8px; }
 .hero .kicker { color: var(--gold); }
-.hero h1 { font-size: clamp(28px, 4.4vw, 42px); line-height: 1.12; margin: 0 0 14px; }
+.hero h1 { font-size: clamp(28px, 4.4vw, 42px); line-height: 1.12; margin: 0 0 14px; color: var(--stone); }
 .hero p { color: #c9cede; font-size: 18px; margin: 0 0 10px; }
 .hero ul { margin: 14px 0 0; padding-left: 20px; color: #c9cede; }
 .hero li { margin: 0 0 4px; }
@@ -83,7 +83,7 @@ table.list small { color: var(--muted); }
 .cols li { break-inside: avoid; margin: 0 0 6px; }
 .cols li span { color: var(--muted); }
 .region { font-size: 13px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 18px 0 2px; }
-.trades { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 12px 0 0; }
+.trades { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin: 12px 0 0; }
 .trades a { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; text-decoration: none; }
 .trades a:hover { border-color: var(--gold); }
 .trades b { display: block; font-size: 17px; color: var(--navy); }
@@ -142,5 +142,13 @@ table.list small { color: var(--muted); }
   .signup form { grid-template-columns: 1fr; }
   .top .logo img { width: 128px; }
   .issue .ihead, .issue .ibody { padding-left: 18px; padding-right: 18px; }
-  table.list th:nth-child(3), table.list td:nth-child(3) { display: none; }
+  /* On a phone each tender becomes a stacked block, so the value and deadline stay visible. */
+  table.list, table.list tbody, table.list tr, table.list td, .issue table, .issue tbody, .issue tr, .issue td { display: block; }
+  table.list tr:first-child, .issue table tr:first-child { display: none; }
+  table.list tr, .issue tr { border-bottom: 1px solid #eef0f4; padding: 10px 12px; }
+  .issue tr { padding-left: 0; padding-right: 0; }
+  table.list tr:last-child { border-bottom: 0; }
+  table.list td, .issue td { border: 0; padding: 0 0 4px; }
+  table.list td:nth-child(2)::before, .issue td:nth-child(2)::before { content: "Value: "; font-weight: 600; }
+  table.list td:nth-child(3)::before, .issue td:nth-child(3)::before { content: "Deadline: "; font-weight: 600; }
 }
