@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-12",
+ "fetched_to": "2026-11-13",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -491,7 +491,7 @@
    "src": "cf",
    "start": "2027-04-01",
    "status": "open",
-   "title": "Invitation for Expressions of Interest - Bay W.C Cleaning and Maintenance",
+   "title": "Bay W.C Cleaning and Maintenance",
    "trades": [
     "cleaning"
    ],
@@ -1948,7 +1948,7 @@
    "src": "fts",
    "start": "2027-04-01",
    "status": "open",
-   "title": "UK4 NRW Land Management General Site Maintenance Framework",
+   "title": "NRW Land Management General Site Maintenance Framework",
    "trades": [
     "grounds-maintenance"
    ],
@@ -2859,7 +2859,7 @@
    "src": "fts",
    "start": "2027-04-01",
    "status": "open",
-   "title": "Invitation to Tender for the Management of the Cleaning Services at Greenhead College",
+   "title": "Management of the Cleaning Services at Greenhead College",
    "trades": [
     "cleaning"
    ],
@@ -3031,7 +3031,7 @@
    "src": "fts",
    "start": "",
    "status": "open",
-   "title": "Pest Control & Associated Services",
+   "title": "Pest Control & Associated Services (2027-31)",
    "trades": [
     "pest-control"
    ],
@@ -7056,7 +7056,7 @@
    "src": "fts",
    "start": "2026-12-01",
    "status": "open",
-   "title": "Invitation to Tender Window Cleaning Services - Wirral",
+   "title": "Window Cleaning Services - Wirral",
    "trades": [
     "window-cleaning"
    ],
@@ -7561,7 +7561,7 @@
     "77314000",
     "90911000"
    ],
-   "deadline": "2026-11-25T12:00:00Z",
+   "deadline": "2026-12-02T12:00:00Z",
    "deadline_kind": "bid",
    "desc": "Habinteg Housing Association wishes to appoint one or more Supplier(s) to deliver communal cleaning, window cleaning and grounds maintenance services across its residential schemes in Central and East England.\nThe services are intended to ensure that communal areas are maintained to an appropriate standard, providing safe, clean and well-maintained environments for residents.\nThe opportunity has been divided into four Lots, comprising:\n- Lot 1: Milton Keynes & Dunstable Grounds Maintenance Services\n- Lot 2: Communal Cleaning in Letchworth\n- Lot 3: Thetford & Hoveton Grounds Maintenance and Communal Cleaning Services\n- Lot 4: Essex & Ipswich Grounds Maintenance, Communal Cleaning and Window Cleaning Services\nThe successful Supplier(s) will be expected to provide services to all sites within the Lot(s) awarded.\nSuppliers may submit a Tender Response for any or all Lots. Each Lot will be evaluated independently, and there is no restriction on the number of Lots that may be awarded to an individual Supplier.\nHabinteg welcomes bids from suppliers of all sizes, including small and medium-sized enterprises (SMEs), and has structured the opportunity into Lots to encourage competition and maximise opportunities for local suppliers.\nSuppliers are required to attend a mandatory site visit for the Lot(s) they intend to bid for. Site visit dates, locations and the registration process are detailed within Schedule 1. Suppliers are responsible for ensuring that they attend all mandatory site visits relevant to their Tender Response. Attendance must be registered no later than 12:00 noon on 30th October 2026.\nHabinteg has established Lot-specific and site-specific budget caps as detailed within the relevant Schedule 4 - Pricing Schedule. Suppliers must ensure that submitted pricing does not exceed the applicable budget cap(s).\nHabinteg is seeking to establish constructive and collaborative relationships with its appointed Supplier(s), working in partnership to deliver high-quality services, achieve value for money and support positive outcomes for residents throughout the Contract Term.\nWithin the Pricing Schedule, Habinteg has identified the schemes and properties currently requiring service delivery. Should this portfolio require amendment during the Contract Term, including the addition, removal or alteration of schemes, properties or service requirements, this shall be ",
    "end": "2030-03-31",
@@ -7575,7 +7575,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Milton Keynes & Dunstable Grounds Maintenance Services",
-     "value": 141769.47
+     "value": 140802.7
     },
     {
      "end": "2030-03-31",
@@ -7583,7 +7583,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Communal Cleaning in Letchworth",
-     "value": 29134.2
+     "value": 31323.59
     },
     {
      "end": "2030-03-31",
@@ -7599,7 +7599,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Essex & Ipswich Grounds Maintenance, Communal Cleaning and Window Cleaning Services",
-     "value": 228554.5
+     "value": 230911.08
     }
    ],
    "max_end": "2032-03-31",
@@ -7607,7 +7607,7 @@
    "method_text": "Open procedure",
    "portal": "https://procontract.due-north.com/Opportunities/Index?p=18d7f93d-94bb-ef11-8132-005056b64545&v=2",
    "postcodes": [],
-   "published": "2026-10-23",
+   "published": "2026-11-12",
    "raw_title": "Procurement for Communal Cleaning, Grounds Maintenance and Window Cleaning in Central and East of England (Habinteg)(Split into Lots)",
    "regions": [],
    "sme": true,
@@ -7621,9 +7621,9 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-23T14:43:00+01:00",
-   "url": "https://www.find-tender.service.gov.uk/Notice/100583-2026",
-   "value": 444706.79
+   "updated": "2026-11-12T18:13:32Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107780-2026",
+   "value": 448285.99
   },
   "fts:ocds-h6vhtk-078c07": {
    "areas": [
@@ -8013,7 +8013,7 @@
    "cpv": [
     "79623000"
    ],
-   "deadline": "2026-11-16T13:00:00Z",
+   "deadline": "2026-11-18T13:00:00Z",
    "deadline_kind": "bid",
    "desc": "Folkestone & Hythe District Council (F&HDC) wishes to select and appoint a suitable supplier for the provision of seasonal labour for grounds maintenance work and invites organisations to submit a tender to meet F&HDC's requirements.\nThe roles include Seasonal Gardeners, Seasonal Mobile Toilet Cleaners, Seasonal Park Keepers, Seasonal Sports Attendants and any other additional seasonal roles as required by the Grounds Maintenance department. The annual season begins by Easter each year until end of October.\nThe contract is anticipated to start 1 January 2027 and continue for a period of 3 years (with the option to extend for a further period (or periods) of up to 24 months months).\nInterested suppliers can visit the Kent Business Portal (https://www.kentbusinessportal.org.uk/respond/GFY35JJVWQ). To quote you must complete and return the \"Invitation to Tender Response Document\" via the portal.",
    "end": "2029-12-31",
@@ -8035,7 +8035,7 @@
    "method_text": "Open procedure",
    "portal": "https://www.kentbusinessportal.org.uk/respond/GFY35JJVWQ",
    "postcodes": [],
-   "published": "2026-10-21",
+   "published": "2026-11-13",
    "raw_title": "Provision of Seasonal Grounds Maintenance Staff",
    "regions": [],
    "sme": true,
@@ -8047,8 +8047,8 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-21T12:23:37+01:00",
-   "url": "https://www.find-tender.service.gov.uk/Notice/099423-2026",
+   "updated": "2026-11-13T10:19:54Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107859-2026",
    "value": 1275000.0
   },
   "fts:ocds-h6vhtk-078ccf": {
@@ -8701,7 +8701,7 @@
    "src": "fts",
    "start": "2026-12-15",
    "status": "open",
-   "title": "Invitation to Tender - Window Cleaning Wirral 2026",
+   "title": "Window Cleaning Wirral 2026",
    "trades": [
     "window-cleaning"
    ],
@@ -9064,7 +9064,7 @@
    "src": "fts",
    "start": "2027-01-04",
    "status": "open",
-   "title": "Provision of cleaning services at Swansea City Bus Station",
+   "title": "Cleaning services at Swansea City Bus Station",
    "trades": [
     "cleaning"
    ],
@@ -9407,68 +9407,6 @@
    "updated": "2026-11-06T09:49:09Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/105537-2026",
    "value": 65000.0
-  },
-  "fts:ocds-h6vhtk-0796c0": {
-   "areas": [
-    "derbyshire"
-   ],
-   "buyer": "Derbyshire County Council",
-   "buyer_code": "UKF13",
-   "buyer_postcode": "DE4 3AG",
-   "buyer_town": "Matlock",
-   "calloff": false,
-   "codes": [
-    "UKF13"
-   ],
-   "contact": {
-    "email": "Countyprocurementcompliance.team@derbyshire.gov.uk",
-    "telephone": "07956132555"
-   },
-   "cpv": [
-    "45222000",
-    "45223000",
-    "45262620",
-    "71311000",
-    "71320000",
-    "71322000"
-   ],
-   "deadline": "2026-12-05T11:00:00+00:00",
-   "deadline_kind": "bid",
-   "desc": "For design and construction of a new wall to retain the carriageway, reconstruction of road pavement and highway boundary wall, earthworks reinstatement and associated works Location : Chesterfield Road at OS Grid ref. SK 27586 67431 east of the village of Beeley in Derbyshire (DE4 2NS).",
-   "end": "2027-05-14",
-   "first_seen": "2026-11-03",
-   "framework": false,
-   "id": "fts:ocds-h6vhtk-0796c0",
-   "lots": [
-    {
-     "end": "2027-05-14",
-     "max_end": "",
-     "sme": true,
-     "start": "2027-02-05",
-     "title": "",
-     "value": 1440000.0
-    }
-   ],
-   "max_end": "",
-   "method": "open",
-   "method_text": "Below threshold - open competition",
-   "portal": "https://www.delta-esourcing.com/respond/JQ73Y9N6PN",
-   "postcodes": [],
-   "published": "2026-11-05",
-   "raw_title": "PLACE1155H Lime Tree Wood (Beeley) Landslip- Repair Works",
-   "regions": [],
-   "sme": true,
-   "src": "fts",
-   "start": "2027-02-05",
-   "status": "open",
-   "title": "PLACE1155H Lime Tree Wood (Beeley) Landslip- Repair Works",
-   "trades": [
-    "tree-work"
-   ],
-   "uk_wide": false,
-   "updated": "2026-11-05T14:28:06Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/105270-2026",
-   "value": 1440000.0
   },
   "fts:ocds-h6vhtk-0796da": {
    "areas": [
@@ -10481,6 +10419,64 @@
    "updated": "2026-11-12T09:53:51Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/107409-2026",
    "value": 300000.0
+  },
+  "fts:ocds-h6vhtk-07bad7": {
+   "areas": [
+    "surrey"
+   ],
+   "buyer": "Godalming College",
+   "buyer_code": "UKJ25",
+   "buyer_postcode": "GU7 1RS",
+   "buyer_town": "Godalming",
+   "calloff": false,
+   "codes": [
+    "UKJ25"
+   ],
+   "contact": {
+    "email": "tenders@litmuspartnership.co.uk",
+    "name": "Mike Yarnold",
+    "telephone": "01276 673880"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2027-04-02T12:00:00+01:00",
+   "deadline_kind": "bid",
+   "desc": "Godalming College Academy Trust is an outstanding sixth form college and single academy trust serving South West Surrey and the surrounding area. The College was judged Outstanding in all areas by Ofsted in November 2024, reflecting the high standards expected across all aspects of College life, services and facilities.\nGodalming College currently educates approximately 2,500 students aged 16-19 and employs around 250 staff. The College offers a broad curriculum of A Level and vocational qualifications and has a strong reputation for academic achievement, progression to higher education, apprenticeships and employment, and student support.\nThe College's Strategic Plan 2026-2030 is built around three core themes:\n•Empower - enabling students and staff to achieve their full potential in a supportive and inclusive environment.\n•Inspire - creating engaging learning experiences supported by high-quality facilities and services.\n•Shape Futures - investing in sustainable, future-ready infrastructure that supports long-term success and responsible stewardship of resources.\nThe successful contractor will be expected to support these ambitions by helping to provide a safe, welcoming and inclusive environment in which students and staff can thrive, whilst contributing to the College's sustainability objectives and commitment to continuous improvement.\nThe site\nThe College occupies a single campus of approximately 25 acres to the south of Godalming town centre. The campus is readily accessible by road and rail, being located approximately two miles from the A3 and less than one mile from Godalming railway station.\nThe campus buildings currently extend to approximately 25,285 square metres across nine principal buildings. A proposed extension to the 200s Building will create a further 259 square metres and is anticipated to complete in August 2027, increasing the total estate to approximately 25,544 square metres.\nPlease see PSQ document for more information.\nFor more information about this opportunity, please visit the eSourcing portal at:\nhttps://litmustms.co.uk/tenders/UK-UK-Godalming:-School-cleaning-services./B6HTUPF87U\nTo respond to this opportunity, please click here:\nhttps://litmustms.co.uk/respond/B6HTUPF87U",
+   "end": "2030-07-31",
+   "first_seen": "2026-11-12",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bad7",
+   "lots": [
+    {
+     "end": "2030-07-31",
+     "max_end": "2032-07-31",
+     "sme": true,
+     "start": "2027-08-01",
+     "title": "",
+     "value": 1163250.0
+    }
+   ],
+   "max_end": "2032-07-31",
+   "method": "open",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://litmustms.co.uk/respond/B6HTUPF87U",
+   "postcodes": [],
+   "published": "2026-11-12",
+   "raw_title": "Godalming College ~ Cleaning Tender",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-08-01",
+   "status": "open",
+   "title": "Godalming College ~ Cleaning Tender",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-12T15:22:26Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107666-2026",
+   "value": 1163250.0
   }
  }
 }
