@@ -1,0 +1,464 @@
+{
+ "date": "2026-11-09",
+ "title": "23 new public tenders this week",
+ "count": 23,
+ "best": 8,
+ "parish": 3,
+ "built": "2026-11-12",
+ "entries": [
+  {
+   "title": "DPS1 1427 - Tenancy Tree Work",
+   "buyer": "London Borough of Haringey",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/38c7eb80-2aba-4ec1-80c2-dab705f99efe",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "list-only",
+   "fit": "low",
+   "value": "£90,000",
+   "deadline": "Sun 15 Nov, 15:49"
+  },
+  {
+   "title": "Tree Survey Services",
+   "buyer": "University of Exeter",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105156-2026",
+   "areas": [
+    "devon"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£45,000 over 3 years (about £15k a year)",
+   "deadline": "Thu 19 Nov, 13:00"
+  },
+  {
+   "title": "Leisure AGP maintenance",
+   "buyer": "Wirral Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103711-2026",
+   "areas": [
+    "merseyside"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£30,240 over 2 years (about £15k a year)",
+   "deadline": "Mon 23 Nov, 12:00"
+  },
+  {
+   "title": "Arboriculture Works to Urban and Rural Trees, Rochford",
+   "buyer": "Rochford District Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104442-2026",
+   "areas": [
+    "essex"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work",
+    "grounds-maintenance"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£420,000 over 5 years (about £84k a year)",
+   "deadline": "Tue 24 Nov, 12:00"
+  },
+  {
+   "title": "Urban Highway Grass Verge Maintenance (Newton Abbot Town Council)",
+   "buyer": "Newton Abbot Town Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103737-2026",
+   "areas": [
+    "devon"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£130,000 over 1 year",
+   "deadline": "Wed 25 Nov, 12:00"
+  },
+  {
+   "title": "Cleaning Services Contract for Orbital South Colleges: East Surrey College and John Ruskin College",
+   "buyer": "East Surrey College",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103908-2026",
+   "areas": [
+    "surrey"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£2m over 2 years (about £1m a year)",
+   "deadline": "Fri 27 Nov, 12:00"
+  },
+  {
+   "title": "Cleaning services at Swansea City Bus Station",
+   "buyer": "City & County of Swansea",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103719-2026",
+   "areas": [
+    "south-wales"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£700,000 over 3 years (about £233k a year)",
+   "deadline": "Fri 27 Nov, 12:00"
+  },
+  {
+   "title": "Grounds Maintenance Contract 2027 to 2032",
+   "buyer": "Harbury Parish Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105537-2026",
+   "areas": [
+    "warwickshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance",
+    "tree-work"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£65,000 over 5 years (about £13k a year)",
+   "deadline": "Mon 30 Nov, 12:00"
+  },
+  {
+   "title": "Pest Control & Associated Services (2027-31)",
+   "buyer": "University of Strathclyde",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103750-2026",
+   "areas": [
+    "glasgow-and-lanarkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "pest-control"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£196,726",
+   "deadline": "Wed 2 Dec, 12:00"
+  },
+  {
+   "title": "Tree Surgeon and Tree Consultant Framework",
+   "buyer": "Newport City Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103559-2026",
+   "areas": [
+    "south-wales"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "framework",
+   "fit": "medium",
+   "value": "2 lots, from £1.44m to £2.16m over 2½ years (smallest lot about £577k a year)",
+   "deadline": "Wed 2 Dec, 12:00"
+  },
+  {
+   "title": "Window Cleaning Services",
+   "buyer": "Fife Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103830-2026",
+   "areas": [
+    "tayside-fife-and-central"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "window-cleaning"
+   ],
+   "section": "framework",
+   "fit": "medium",
+   "value": "4 lots of £280,000 each",
+   "deadline": "Wed 2 Dec, 12:00"
+  },
+  {
+   "title": "Feral Bird Control Service and Maintenance Contract",
+   "buyer": "Bedfordshire Hospitals NHS Foundation Trust",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105911-2026",
+   "areas": [
+    "bedfordshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "pest-control"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£100,000 over 3 years (about £33k a year)",
+   "deadline": "Fri 4 Dec, 12:00"
+  },
+  {
+   "title": "JHG - Window Cleaning Contract (Lot 1- North, Lot 2 - Tameside, Lot 3 - Midlands)",
+   "buyer": "Jigsaw Homes Group",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105503-2026",
+   "areas": [
+    "greater-manchester"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "window-cleaning"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "3 lots, from £40,000 to £80,000 over 2 years (smallest lot about £20k a year)",
+   "deadline": "Fri 4 Dec, 12:00"
+  },
+  {
+   "title": "NRW Land Management General Site Maintenance Framework",
+   "buyer": "Natural Resources Wales",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104168-2026",
+   "areas": [],
+   "regions": [
+    "wales"
+   ],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "framework",
+   "fit": "medium",
+   "value": "10 lots, from £666,666 to £1.33m over 4 years (smallest lot about £167k a year)",
+   "deadline": "Fri 4 Dec, 12:00"
+  },
+  {
+   "title": "Pest Control",
+   "buyer": "Gentoo Group",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105798-2026",
+   "areas": [],
+   "regions": [
+    "north-east"
+   ],
+   "uk_wide": false,
+   "trades": [
+    "pest-control"
+   ],
+   "section": "framework",
+   "fit": "medium",
+   "value": "£388,000 over 2 years (about £194k a year)",
+   "deadline": "Mon 7 Dec, 12:00"
+  },
+  {
+   "title": "Public Rights of Way - Grass Cutting",
+   "buyer": "Suffolk County Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104362-2026",
+   "areas": [
+    "suffolk"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "10 lots, from £34,000 to £69,000 over 2 years (smallest lot about £17k a year)",
+   "deadline": "Tue 8 Dec, 11:00"
+  },
+  {
+   "title": "The Tiffin Girls' School - Cleaning Services",
+   "buyer": "The Tiffin Girls' School",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105447-2026",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£875,000 over 3 years (about £292k a year)",
+   "deadline": "Thu 10 Dec, 17:00"
+  },
+  {
+   "title": "Communal Cleaning and Window Cleaning — Stage 1 - Procurement Specific Questionnaire (PSQ) - ID730",
+   "buyer": "Trent & Dove Housing Limited",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104330-2026",
+   "areas": [
+    "staffordshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning",
+    "window-cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£1.82m over 5 years (about £364k a year)",
+   "deadline": "Fri 11 Dec, 12:00"
+  },
+  {
+   "title": "South East Essex Academy Trust (SEEAT) - Cleaning Tender",
+   "buyer": "South East Essex Academy Trust (SEEAT)",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105667-2026",
+   "areas": [
+    "essex"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£3.4m over 3 years (about £1.13m a year)",
+   "deadline": "Fri 11 Dec, 12:00"
+  },
+  {
+   "title": "Aspire Academy Trust - Provision of Grounds Maintenance Services",
+   "buyer": "Aspire Academy Trust",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103942-2026",
+   "areas": [
+    "cornwall"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "2 lots of £625,000 each over 3 years (smallest lot about £208k a year)",
+   "deadline": "Wed 16 Dec, 12:00"
+  },
+  {
+   "title": "Ground Maintenance",
+   "buyer": "Stoke Golding Parish Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104024-2026",
+   "areas": [
+    "leicestershire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£90,000 over 3 years (about £30k a year)",
+   "deadline": "Thu 31 Dec"
+  },
+  {
+   "title": "Management of the Cleaning Services at Greenhead College",
+   "buyer": "Greenhead College",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105298-2026",
+   "areas": [
+    "west-yorkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "not stated",
+   "deadline": "Mon 11 Jan, 10:00"
+  },
+  {
+   "title": "Cleaning and Associated Services",
+   "buyer": "Registers of Scotland",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103618-2026",
+   "areas": [
+    "edinburgh-and-lothians"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "not stated",
+   "deadline": ""
+  }
+ ],
+ "areas": {
+  "northumberland": "Northumberland",
+  "tyne-and-wear": "Tyne and Wear",
+  "county-durham": "County Durham",
+  "teesside": "Teesside",
+  "cumbria": "Cumbria",
+  "lancashire": "Lancashire",
+  "greater-manchester": "Greater Manchester",
+  "merseyside": "Merseyside",
+  "cheshire": "Cheshire",
+  "north-yorkshire": "North Yorkshire",
+  "west-yorkshire": "West Yorkshire",
+  "south-yorkshire": "South Yorkshire",
+  "east-yorkshire": "East Yorkshire",
+  "derbyshire": "Derbyshire",
+  "nottinghamshire": "Nottinghamshire",
+  "leicestershire": "Leicestershire and Rutland",
+  "northamptonshire": "Northamptonshire",
+  "lincolnshire": "Lincolnshire",
+  "herefordshire": "Herefordshire",
+  "worcestershire": "Worcestershire",
+  "warwickshire": "Warwickshire",
+  "shropshire": "Shropshire",
+  "staffordshire": "Staffordshire",
+  "west-midlands": "West Midlands",
+  "cambridgeshire": "Cambridgeshire",
+  "norfolk": "Norfolk",
+  "suffolk": "Suffolk",
+  "essex": "Essex",
+  "hertfordshire": "Hertfordshire",
+  "bedfordshire": "Bedfordshire",
+  "london": "London",
+  "kent": "Kent",
+  "east-sussex": "East Sussex",
+  "west-sussex": "West Sussex",
+  "surrey": "Surrey",
+  "hampshire": "Hampshire",
+  "isle-of-wight": "Isle of Wight",
+  "berkshire": "Berkshire",
+  "buckinghamshire": "Buckinghamshire",
+  "oxfordshire": "Oxfordshire",
+  "bristol-and-bath": "Bristol and Bath",
+  "gloucestershire": "Gloucestershire",
+  "wiltshire": "Wiltshire",
+  "somerset": "Somerset",
+  "dorset": "Dorset",
+  "devon": "Devon",
+  "cornwall": "Cornwall",
+  "north-wales": "North Wales",
+  "mid-and-west-wales": "Mid and West Wales",
+  "south-wales": "South Wales",
+  "glasgow-and-lanarkshire": "Glasgow and Lanarkshire",
+  "edinburgh-and-lothians": "Edinburgh and the Lothians",
+  "tayside-fife-and-central": "Tayside, Fife and Central Scotland",
+  "ayrshire": "Ayrshire",
+  "south-of-scotland": "Borders, Dumfries and Galloway",
+  "aberdeen-and-aberdeenshire": "Aberdeen and Aberdeenshire",
+  "highlands-and-islands": "Highlands and Islands",
+  "northern-ireland": "Northern Ireland"
+ }
+}
