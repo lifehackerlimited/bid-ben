@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-13",
+ "fetched_to": "2026-11-14",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -3599,6 +3599,7 @@
    "deadline_kind": "bid",
    "desc": "The site. A single secondary school of approximately 4,315 m² of printed in-scope floor area across three blocks, together with a sports hall building of approximately 1,175 m² delivered under a 2025-26 expansion. A room-by-room schedule of floor surfaces, an out-of-scope list and a sanitary provision schedule are issued with the tender documents.\nThe service. Fully managed: routine cleaning over a 40-week service year, periodic, holiday, deep and non-routine cleaning including high-level work, on-site supervision, labour, equipment, materials, quality assurance and reporting. Washroom consumables are to be priced both as a School-supplied and as a Contractor-supplied option.\nPoints tenderers should note. Timber and sprung timber floors account for 616.6 m², 14.3 per cent of the in-scope area, across five areas including a sports floor and a floor in a food-consumption area. The estate contains 58 WCs, 56 wash basins and 20 showers. There is no site access at weekends or on bank holidays. The sports hall building is not expected to be available before the new year and is priced separately.\nWorkforce. A TUPE service provision change is anticipated, involving eight employees across two transferors - seven employed by the outgoing contractor and one employed directly by the School. One employee is an active member of the Local Government Pension Scheme at an employer contribution rate of 18.4 per cent. Anonymised workforce information is issued with the tender documents, subject to the confidentiality terms of the Invitation to Tender.\nApproach to award. The School is procuring a properly resourced service that is correctly priced. Evaluation weights quality, staffing model, supervision and mobilisation alongside price.",
    "end": "2029-12-10",
+   "ended_on": "2026-11-13",
    "first_seen": "2026-10-14",
    "framework": false,
    "id": "fts:ocds-h6vhtk-077a00",
@@ -3623,7 +3624,7 @@
    "sme": true,
    "src": "fts",
    "start": "2026-12-11",
-   "status": "open",
+   "status": "awarded",
    "title": "Cleaning Services - Shipston High School",
    "trades": [
     "cleaning"
@@ -3664,7 +3665,7 @@
    "method_text": "",
    "portal": "",
    "postcodes": [],
-   "published": "2026-11-02",
+   "published": "2026-11-13",
    "raw_title": "Provision of Cleaning and Associated Services",
    "regions": [],
    "sme": false,
@@ -3676,8 +3677,8 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-11-02T11:03:28Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/103618-2026",
+   "updated": "2026-11-13T10:56:16Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107886-2026",
    "value": null
   },
   "fts:ocds-h6vhtk-077b1d": {
@@ -10477,6 +10478,206 @@
    "updated": "2026-11-12T15:22:26Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/107666-2026",
    "value": 1163250.0
+  },
+  "fts:ocds-h6vhtk-07bbcd": {
+   "areas": [
+    "lancashire"
+   ],
+   "buyer": "Community Gateway Association Limited",
+   "buyer_code": "UKD45",
+   "buyer_postcode": "PR2 2DW",
+   "buyer_town": "Preston",
+   "calloff": false,
+   "codes": [
+    "UKD4"
+   ],
+   "contact": {
+    "email": "nathan@clarityprocurement.co.uk",
+    "name": "Nathan Liptrot",
+    "telephone": "+441942725438"
+   },
+   "cpv": [
+    "90910000",
+    "90911000",
+    "90911100",
+    "90911200",
+    "90911300"
+   ],
+   "deadline": "2026-12-15T12:00:00+00:00",
+   "deadline_kind": "interest",
+   "desc": "The Scope of Services includes:\n•Cleaning of communal areas, offices and associated washrooms\n•Interior and exterior window cleaning\n•Washroom and hygiene services/ safe disposal of hazardous waste\n•Replenishment of consumables\n•Litter picking\n•Deep cleaning / periodic cleaning\n•Emergency / reactive cleaning callouts\n•Floor cleaning and maintenance\nThe Services are provided at the following locations:\n•Harbour House – CGA Head Office – PR2 2DW\n•Almelo House - PR1 7TR\n•Andrew Court - PR1 5HX\n•Astley Court -PR1 1QU\n•Brookhaven - PR5 6BG\n•Chain Caul Way – Industrial Unit - PR2 2YL\n•Chapelfold - PR2 3ZJ\n•Ingolcroft - PR2 3ZH\n•Oaktree Court - PR2 1PQ\n•The Filberts - PR2 3YT\n•The Spires - Sheltered accommodation - PR1 2YJ\n•The Watermills - PR3 5FB\n•Windsor Court - PR2 8EZ\n•The Atrium – Extra Care Scheme- PR2 6FY\n•The Courtyards – Extra Care Scheme - PR2 3WQ\n•Sunningdale - PR4 0AX\n•The Crossings (sheltered accommodation currently in development expected to be open by January 2027)\nThe main objectives of this procurement are to:\n•Provide high quality Services\n•Achieve high levels of customer satisfaction\n•Achieve value for money\n•Deliver tangible and relevant social value\nFull details of the Services required are contained in the Specification as set out in Appendix 1 of the ITT document.\nThe Contract is expected to commence in June 2027.\nThe Contract will last for an initial period of 3 years, with an option to extend at CGA’s discretion for a further 1 year, and 1 additional year, giving a total potential maximum term of 5 years.\nA single Service Provider will be appointed.\nThis tender is being administered on behalf of CGA by Clarity Procurement Solutions Limited.\nThe total estimated value is £1,850,000 including VAT over 5 years (£370,000 per annum including VAT). This excludes annual price indexation\nFor more information about this opportunity, please visit the eSourcing portal at:\nhttps://www.delta-esourcing.com/tenders/UK-UK-Preston:-Cleaning-services./9M9E563C99\nTo respond to this opportunity, please click here:\nhttps://www.delta-esourcing.com/respond/9M9E563C99",
+   "end": "2030-06-29",
+   "first_seen": "2026-11-13",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bbcd",
+   "lots": [
+    {
+     "end": "2030-06-29",
+     "max_end": "2032-06-29",
+     "sme": true,
+     "start": "2027-06-30",
+     "title": "",
+     "value": 1850000.0
+    }
+   ],
+   "max_end": "2032-06-29",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://www.delta-esourcing.com/respond/9M9E563C99",
+   "postcodes": [],
+   "published": "2026-11-13",
+   "raw_title": "Community Gateway Association Cleaning Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-06-30",
+   "status": "open",
+   "title": "Community Gateway Association Cleaning Services",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-13T14:21:56Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108059-2026",
+   "value": 1850000.0
+  },
+  "fts:ocds-h6vhtk-07bbe1": {
+   "areas": [
+    "kent"
+   ],
+   "buyer": "Maidstone Borough Council",
+   "buyer_code": "UKJ45",
+   "buyer_postcode": "ME15 6JQ",
+   "buyer_town": "Kent",
+   "calloff": false,
+   "codes": [
+    "UKJ45"
+   ],
+   "contact": {
+    "email": "procurement@tunbridgewells.gov.uk",
+    "telephone": "01892554189"
+   },
+   "cpv": [
+    "90910000",
+    "90919200"
+   ],
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Maidstone Borough Council is inviting tenders from suitably qualified and experienced contractors for the provision of office cleaning services at various Council properties within Maidstone.\nIndicative Dates & Timeline for Procurement\nTender release: 13th November 2026\nDeadline for clarifications: 12:00pm 11th December 2026\nDeadline for submission of completed tenders: 12:00pm 18th December 2026\nEvaluation: w/c 21st December 2026\nAppointment of contractor: w/c 18th January 2027\nContract Commencement: 1st March 2027\nFor more information about this opportunity, please visit the eSourcing portal at:\nhttps://www.kentbusinessportal.org.uk/tenders/UK-UK-Kent:-Cleaning-services./RZ65QXNG9Y\nTo respond to this opportunity, please click here:\nhttps://www.kentbusinessportal.org.uk/respond/RZ65QXNG9Y",
+   "end": "2030-02-28",
+   "first_seen": "2026-11-13",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bbe1",
+   "lots": [
+    {
+     "end": "2030-02-28",
+     "max_end": "2032-02-29",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "",
+     "value": 800000.0
+    }
+   ],
+   "max_end": "2032-02-29",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.kentbusinessportal.org.uk/respond/RZ65QXNG9Y",
+   "postcodes": [],
+   "published": "2026-11-13",
+   "raw_title": "Office Cleaning Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-01",
+   "status": "open",
+   "title": "Office Cleaning Services",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-13T15:10:33Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108100-2026",
+   "value": 800000.0
+  },
+  "fts:ocds-h6vhtk-07bbe6": {
+   "areas": [
+    "tyne-and-wear"
+   ],
+   "buyer": "Newcastle City Council",
+   "buyer_code": "UKC22",
+   "buyer_postcode": "NE1 8QH",
+   "buyer_town": "Newcastle Upon Tyne",
+   "calloff": false,
+   "codes": [
+    "UKC",
+    "UKD",
+    "UKE",
+    "UKF",
+    "UKG",
+    "UKH",
+    "UKI",
+    "UKJ",
+    "UKK"
+   ],
+   "contact": {
+    "email": "corporate.procurement.team@newcastle.gov.uk"
+   },
+   "cpv": [
+    "90900000"
+   ],
+   "deadline": "2026-11-27T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "It is Newcastle City Council's (NCC's) intention to establish a framework for the provision of window and high-level cleaning at several Newcastle City Council Public Buildings and Residential Properties.\nThe proposed framework will be divided into the following Lots:-\n• Lot 1 Public Buildings\n• Lot 2 Residential Properties\n• Lot 3 Tree Top Village",
+   "end": "2028-12-31",
+   "first_seen": "2026-11-13",
+   "framework": true,
+   "id": "fts:ocds-h6vhtk-07bbe6",
+   "lots": [
+    {
+     "end": "2028-12-31",
+     "max_end": "2030-12-31",
+     "sme": false,
+     "start": "2027-01-01",
+     "title": "Public Buildings",
+     "value": 140000.0
+    },
+    {
+     "end": "2028-12-31",
+     "max_end": "2030-12-31",
+     "sme": false,
+     "start": "2027-01-01",
+     "title": "Residential Properties",
+     "value": 140000.0
+    },
+    {
+     "end": "2028-12-31",
+     "max_end": "2030-12-31",
+     "sme": false,
+     "start": "2027-01-01",
+     "title": "Tree Top Village",
+     "value": 140000.0
+    }
+   ],
+   "max_end": "2030-12-31",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-13",
+   "raw_title": "009689 - Window and High Level Cleaning",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-01-01",
+   "status": "open",
+   "title": "Window and High Level Cleaning",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-13T15:17:29Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108109-2026",
+   "value": 140000.0
   }
  }
 }
