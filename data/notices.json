@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-15",
+ "fetched_to": "2026-11-16",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -10678,6 +10678,264 @@
    "updated": "2026-11-13T15:17:29Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/108109-2026",
    "value": 140000.0
+  },
+  "fts:ocds-h6vhtk-07bc97": {
+   "areas": [
+    "east-yorkshire"
+   ],
+   "buyer": "Bilton Parish Council",
+   "buyer_code": "UKE12",
+   "buyer_postcode": "HU11 4AA",
+   "buyer_town": "Bilton",
+   "calloff": false,
+   "codes": [
+    "UKC",
+    "UKD",
+    "UKE",
+    "UKF",
+    "UKG",
+    "UKH",
+    "UKI",
+    "UKJ",
+    "UKK"
+   ],
+   "contact": {
+    "email": "clerk@biltonparishcouncil.org",
+    "telephone": "01482 811234"
+   },
+   "cpv": [
+    "77314000"
+   ],
+   "deadline": "2027-01-05T23:59:59Z",
+   "deadline_kind": "bid",
+   "desc": "Bilton Parish Council invites tenders for the carrying out of cemetery maintenance within the Parish Cemetery and Closed Churchyard.\nThe schedule of works includes:\n18 cuts to main church and adjacent cemetery during the growing period - to include the collection of mower clippings and strimming to all head stones and kerbs. Clippings to be removed from site.\n3 cuts to all hedge rows - with pre, mid and end season prunes as needed. All brash to be removed from site - with extra cuts if agreed upon inspection.\n9 cuts to large rear grassed area (new burial ground at rear of cemetery) - clippings to be spread for neat appearance.\n9 monthly weed control applications to all required appears to include gravel paths, kerbs, building parameters, planted and hedge boards, and selective grave areas.\nFull site litter pick on every visit, litter to be placed in onsite bin.\nLevel graves as on inspection and to include supplying topsoil and seed.\nCrown lifting to any branches or tree limbs as requires, brash to be removed from site.\nMaintain external cenotaph as require for appearance.",
+   "end": "2027-11-30",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bc97",
+   "lots": [
+    {
+     "end": "2027-11-30",
+     "max_end": "2028-11-30",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "",
+     "value": 8000.0
+    }
+   ],
+   "max_end": "2028-11-30",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Cemetery and Closed Churchyard Maintenance Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-01",
+   "status": "open",
+   "title": "Cemetery and Closed Churchyard Maintenance Contract",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T12:22:41Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108420-2026",
+   "value": 8000.0
+  },
+  "fts:ocds-h6vhtk-07bc98": {
+   "areas": [
+    "essex"
+   ],
+   "buyer": "St Peter's Catholic Primary School",
+   "buyer_code": "UKH37",
+   "buyer_postcode": "CM11 2UB",
+   "buyer_town": "Billericay",
+   "calloff": false,
+   "codes": [
+    "UKH3"
+   ],
+   "contact": {
+    "email": "admin@st-peters-pri.essex.sch.uk"
+   },
+   "cpv": [
+    "90919300",
+    "98341140"
+   ],
+   "deadline": "2026-12-14T12:00:00+00:00",
+   "deadline_kind": "interest",
+   "desc": "This invitation has been issued by Place Group Limited as Agent of St Peter’s Catholic Primary School (“the Client”). Suppliers are invited by the Client to tender for the provision of cleaning and caretaking services for the Client in accordance with this invitation.\nThis procurement process is being undertaken in line with public procurement legislation and guidance in two stages, utilising the Competitive Flexible Procedure in accordance with the Procurement Act 2023 – Stage 1 is the Invitation to Participate, and Stage 2 is the Invitation to Submit Final Tender.\nThe Contract period will be for 3 years initially, with the option to extend for two further one-year periods at the discretion of the Client. The estimated contract value for this contract over the full potential 5-year period is £450,000 (ex VAT).\nFurther information on the Client’s requirements can be found in the Attachments to this ITP on the In-tend portal.",
+   "end": "2030-09-30",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bc98",
+   "lots": [
+    {
+     "end": "2030-09-30",
+     "max_end": "2032-09-30",
+     "sme": true,
+     "start": "2027-10-01",
+     "title": "",
+     "value": 450000.0
+    }
+   ],
+   "max_end": "2032-09-30",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://supplier.in-tend.co.uk/placegroup/home",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "PP-10201 St Peter’s Catholic Primary School Cleaning and Caretaking",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-10-01",
+   "status": "open",
+   "title": "St Peter’s Catholic Primary School Cleaning and Caretaking",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T12:23:40Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108421-2026",
+   "value": 450000.0
+  },
+  "fts:ocds-h6vhtk-07bca2": {
+   "areas": [
+    "northern-ireland"
+   ],
+   "buyer": "DAERA - Forest Service",
+   "buyer_code": "UKN0G",
+   "buyer_postcode": "BT74 4EJ",
+   "buyer_town": "Enniskillen",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "ssdadmin.cpd@finance-ni.giv.uk"
+   },
+   "cpv": [
+    "03450000",
+    "03452000",
+    "77100000",
+    "77200000",
+    "77211300",
+    "77211500",
+    "77211600",
+    "77231000"
+   ],
+   "deadline": "2026-12-11T15:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "DAERA Forest Service are seeking to establish a Framework Agreement to appoint a list of Suppliers for tree planting services, to carry out afforestation and re-planting of forests across its estate, as well as the replacement of failed trees on previously planted sites, which is termed as Beating-up, as well as in-filling of trees on naturally regenerated sites. This replanting requirement contains three (3) Lots which will be awarded in the following county groupings: Lot 1 - Antrim/Derry - Planting; Lot 2 - Armagh/Down - Planting; Lot 3 - Tyrone/Fermanagh - Planting. There are no restrictions on the number of Lots Suppliers may bid for or may be awarded. Therefore, the Supplier may tender for any Lot they wish. Within each Lot Suppliers must however provide all services/requirements detailed. Full details of the services required are set out within the Specification.",
+   "end": "2029-01-10",
+   "first_seen": "2026-11-16",
+   "framework": true,
+   "id": "fts:ocds-h6vhtk-07bca2",
+   "lots": [
+    {
+     "end": "2029-01-10",
+     "max_end": "2031-01-10",
+     "sme": true,
+     "start": "2027-01-11",
+     "title": "Lot 1 - Antrim/Derry - Planting",
+     "value": 700000.0
+    },
+    {
+     "end": "2029-01-10",
+     "max_end": "2031-01-10",
+     "sme": true,
+     "start": "2027-01-11",
+     "title": "Lot 2 - Armagh/Down - Planting",
+     "value": 500000.0
+    },
+    {
+     "end": "2029-01-10",
+     "max_end": "2031-01-10",
+     "sme": true,
+     "start": "2027-01-11",
+     "title": "Lot 3 - Tyrone/Fermanagh - Planting",
+     "value": 1600000.0
+    }
+   ],
+   "max_end": "2031-01-10",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://etendersni.gov.uk/epps",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "ID 6829605 - DAERA - Forest Service - Tree Planting Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-01-11",
+   "status": "open",
+   "title": "DAERA - Forest Service - Tree Planting Services",
+   "trades": [
+    "grounds-maintenance",
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T12:39:00Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108436-2026",
+   "value": 2800000.0
+  },
+  "fts:ocds-h6vhtk-07bca5": {
+   "areas": [
+    "south-wales"
+   ],
+   "buyer": "Porthcawl Town Council",
+   "buyer_code": "UKL17",
+   "buyer_postcode": "CF36 3YA",
+   "buyer_town": "Porthcawl",
+   "calloff": false,
+   "codes": [
+    "UKL"
+   ],
+   "contact": {
+    "email": "info@porthcawltowncouncil.gov.uk",
+    "name": "Sian Hookins",
+    "telephone": "+447930956373"
+   },
+   "cpv": [
+    "77300000"
+   ],
+   "deadline": "2026-12-02T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Porthcawl Town Council invites quotations from suitably experienced and qualified sports turf contractors for the provision of end-of-season renovation, winter maintenance, pre-season preparation and in-season maintenanceservices for the bowling green at Griffin Park, New Road, Porthcawl. The Council's objective is to maintain the green in a healthy, disease-free and well-aerated condition throughoutthe contract period and to provide a high-quality playing surface for the 2027 bowling season.• Green dimensions: approximately 40m x 40m, providing a standard six-rink bowling green.• Current turf condition: generally average to good, with minor moss issues. The green edges require re-seeding and dressing to address bare patches.",
+   "end": "2027-12-31",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bca5",
+   "lots": [
+    {
+     "end": "2027-12-31",
+     "max_end": "",
+     "sme": true,
+     "start": "2027-01-01",
+     "title": "",
+     "value": 70000.0
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "https://www.sell2wales.gov.wales/info@porthcawltowncouncil.gov.uk16-18",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Griffin Park Bowls Green",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-01-01",
+   "status": "open",
+   "title": "Griffin Park Bowls Green",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T12:47:09Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108441-2026",
+   "value": 70000.0
   }
  }
 }
