@@ -10,6 +10,8 @@ name: Site
 on:
   schedule:
     - cron: "40 4 * * *"    # 04:40 UTC every day (GitHub often starts up to 40 minutes late)
+    - cron: "13 2 * * 1"    # and 02:13 UTC on Mondays as well: GitHub sometimes starts the 04:40 run hours late,
+                            # after the outreach autopilot has tried to send the issue at 09:00
   workflow_dispatch:
     inputs:
       days:
