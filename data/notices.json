@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-16",
+ "fetched_to": "2026-11-17",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -876,6 +876,7 @@
    "deadline_kind": "bid",
    "desc": "13682 DTH 26-27\nDead tree removal brough wide in anticipation of tree replacement This opportunity has been distributed on adamprocure.co.uk",
    "end": "2026-11-30",
+   "ended_on": "2026-11-16",
    "first_seen": "2026-10-13",
    "framework": false,
    "id": "cf:ocds-b5fd17-7bcf2c30-e5ce-44dc-bbe0-e63213646514",
@@ -891,7 +892,7 @@
    "sme": true,
    "src": "cf",
    "start": "2026-10-21",
-   "status": "open",
+   "status": "awarded",
    "title": "Arboricultural services - Tree works operations",
    "trades": [
     "tree-work"
@@ -1629,6 +1630,7 @@
    "deadline_kind": "bid",
    "desc": "13686 DTH 2026-27 Final Set\nTree and stump removal in preparation for tree replacement This opportunity has been distributed on adamprocure.co.uk",
    "end": "2026-11-30",
+   "ended_on": "2026-11-16",
    "first_seen": "2026-10-16",
    "framework": false,
    "id": "cf:ocds-b5fd17-f0142ad2-4675-4f40-8eb6-4404eea31ad3",
@@ -1644,7 +1646,7 @@
    "sme": true,
    "src": "cf",
    "start": "2026-10-26",
-   "status": "open",
+   "status": "awarded",
    "title": "Arboricultural services - Tree works operations",
    "trades": [
     "tree-work"
@@ -2902,7 +2904,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "",
-     "value": 900000.0
+     "value": 1685200.0
     }
    ],
    "max_end": "2030-04-01",
@@ -2910,7 +2912,7 @@
    "method_text": "Open procedure",
    "portal": "https://www.proactisplaza.com/Secure/ContentGateway.aspx?locatorId=20rs1d5t4xn518bnexy0cxs893",
    "postcodes": [],
-   "published": "2026-10-27",
+   "published": "2026-11-16",
    "raw_title": "Ysgol Y Deri Cleaning Contract",
    "regions": [],
    "sme": true,
@@ -2922,9 +2924,83 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-10-27T10:02:36Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/101360-2026",
-   "value": 900000.0
+   "updated": "2026-11-16T14:33:15Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108527-2026",
+   "value": 1685200.0
+  },
+  "fts:ocds-h6vhtk-06e7e0": {
+   "areas": [
+    "lincolnshire",
+    "south-yorkshire"
+   ],
+   "buyer": "Acis Group Limited",
+   "buyer_code": "UKF30",
+   "buyer_postcode": "DN21 1GG",
+   "buyer_town": "Gainsborough",
+   "calloff": false,
+   "codes": [
+    "UKE3",
+    "UKF3"
+   ],
+   "contact": {
+    "email": "procurement@acisgroup.co.uk"
+   },
+   "cpv": [
+    "90911000"
+   ],
+   "deadline": "2026-12-14T14:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Communal Cleaning Service for blocks and sheltered sites split into 3 Lots",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-06e7e0",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Lot 1 East Blocks",
+     "value": 350000.0
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Lot 2 West Blocks",
+     "value": 175000.0
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Lot 3 Sheltered",
+     "value": 700000.0
+    }
+   ],
+   "max_end": "2034-03-31",
+   "method": "open",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://www.delta-esourcing.com/delta/signup.html?userType=supplier",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Communal Cleaning Service for blocks and sheltered sites",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Communal Cleaning Service for blocks and sheltered sites",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T16:34:43Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108644-2026",
+   "value": 1225000.0
   },
   "fts:ocds-h6vhtk-06e94e": {
    "areas": [
@@ -6109,6 +6185,67 @@
    "updated": "2026-10-13T12:20:42+01:00",
    "url": "https://www.find-tender.service.gov.uk/Notice/096500-2026",
    "value": 2475000.0
+  },
+  "fts:ocds-h6vhtk-0786d1": {
+   "areas": [
+    "shropshire"
+   ],
+   "buyer": "Shropshire Towns and Rural Housing Limited",
+   "buyer_code": "UKG22",
+   "buyer_postcode": "SY2 6LG",
+   "buyer_town": "Shrewsbury",
+   "calloff": false,
+   "codes": [
+    "UKG2"
+   ],
+   "contact": {
+    "email": "lewis.pavey@starhousing.org.uk",
+    "name": "Lewis Pavey",
+    "telephone": "+44 0333 32 12 200"
+   },
+   "cpv": [
+    "90910000",
+    "90911100",
+    "90911200",
+    "90919200"
+   ],
+   "deadline": "2026-12-16T12:00:00Z",
+   "deadline_kind": "interest",
+   "desc": "Shropshire Towns and Rural Housing (STAR Housing) is seeking to appoint a suitably qualified and experienced supplier to deliver a comprehensive range of cleaning services across its housing portfolio, communal facilities and corporate premises throughout Shropshire.\nThe Contract will cover planned, routine, responsive and specialist cleaning services, including communal areas, community facilities, office premises, void property cleaning, environmental and deep cleaning, biohazard cleaning, waste removal and needle sweep services, as further detailed in the Procurement Documents.\nSTAR Housing intends to appoint a single supplier responsible for delivering the full scope of services under one Contract. The Contract will have an initial term of three (3) years, with options to extend for up to two (2) additional years, exercisable as two separate one-year extensions, subject to satisfactory performance and the Contract terms.\nThe Procurement will be conducted in accordance with the Procurement Act 2023 using the Competitive Flexible Procedure.\nThe Procurement will comprise the following stages:\nStage 1 – Conditions of Participation: Interested suppliers will be required to complete and submit the Conditions of Participation documentation by the specified deadline. Submissions will be assessed against the published participation requirements and shortlisting methodology. Up to five suppliers may be shortlisted to progress to Stage 2.\nStage 2 – Invitation to Tender: Shortlisted suppliers will be invited to submit detailed proposals, including Quality, Price and Social Value responses. Tenders will be evaluated in accordance with the published award criteria and methodology.\nStage 3 – Optional Interviews: STAR Housing reserves the right to undertake interviews with up to three of the highest-scoring eligible suppliers to clarify and verify information submitted during Stage 2, in accordance with the Procurement Documents.\nThe Contract will be awarded to the supplier submitting the Most Advantageous Tender, subject to satisfying the applicable procurement requirements.\nThis notice constitutes the formal commencement of the competitive procurement process. Suppliers wishing to participate must submit their Stage 1 responses through the designated eSourcing portal by the published deadline.\nStage 1: Shropshire Towns and Rural Housing Limited (STAR Housing) is seeki",
+   "end": "2030-07-31",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-0786d1",
+   "lots": [
+    {
+     "end": "2030-07-31",
+     "max_end": "2032-07-31",
+     "sme": true,
+     "start": "2027-08-02",
+     "title": "",
+     "value": 1250000.0
+    }
+   ],
+   "max_end": "2032-07-31",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://suppliers.esourcingdata.com/supplier/tenders/b307f108-498a-41f4-abe5-a4459658af6b",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "STAR Housing – Cleaning Services (ID610)",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-08-02",
+   "status": "open",
+   "title": "STAR Housing – Cleaning Services",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T13:42:23Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108481-2026",
+   "value": 1250000.0
   },
   "fts:ocds-h6vhtk-078770": {
    "areas": [
@@ -10936,6 +11073,340 @@
    "updated": "2026-11-16T12:47:09Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/108441-2026",
    "value": 70000.0
+  },
+  "fts:ocds-h6vhtk-07bcc0": {
+   "areas": [],
+   "buyer": "Orbit Group Limited",
+   "buyer_code": "UKG33",
+   "buyer_postcode": "CV3 2SU",
+   "buyer_town": "Coventry",
+   "calloff": false,
+   "codes": [
+    "UK"
+   ],
+   "contact": {
+    "email": "group.tenders@orbit.org.uk",
+    "name": "Gemma Wheatley",
+    "telephone": "+448006781221"
+   },
+   "cpv": [
+    "03452000",
+    "77000000",
+    "77211300",
+    "77211400",
+    "77211500",
+    "77341000"
+   ],
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Orbit wishes to tender for a closed framework to provide tree works across our housing stock. The framework will be for a term of 4 years. A significant part of Orbit’s responsibility includes the proactive management and maintenance of estate grounds, woodlands, tree belts, ponds and green spaces located on land within Orbit’s ownership, management or control. Trees located in customers’ gardens may also require attention from time to time, subject to the conditions set out in Orbit’s Tree Policy. Orbit’s Tree Policy may be updated during the course of the Contract. The primary Service under this Contract is the provision of arboricultural services, including but not limited to: Reactive Tree Works, normally to be undertaken within three months. Planned Tree Works normally with a timescale of more than twelve months. Planting of new and replacement trees. Provision of a twenty-four-hour emergency call-out service. Other related arboricultural maintenance services as required under the Contract. Orbit’s housing stock is spread across the Midlands, East of England and South East. For the purposes of delivering arboricultural services, these areas are broadly grouped into the Midlands, East and South regions. For the purposes of this tender, the regions are divided into three Lots. The desired outcome of this procurement exercise is a four-year Closed Framework under PA23 for the provision of arboricultural services to multiple Lots across Orbit regions of operation. Full details of this opportunity is provided in the ITT and all associated documents.",
+   "end": "2031-06-24",
+   "first_seen": "2026-11-16",
+   "framework": true,
+   "id": "fts:ocds-h6vhtk-07bcc0",
+   "lots": [
+    {
+     "end": "2031-06-24",
+     "max_end": "",
+     "sme": true,
+     "start": "2027-06-25",
+     "title": "East",
+     "value": 1226666.67
+    },
+    {
+     "end": "2031-06-24",
+     "max_end": "",
+     "sme": true,
+     "start": "2027-06-25",
+     "title": "Midlands",
+     "value": 3583333.33
+    },
+    {
+     "end": "2031-06-24",
+     "max_end": "",
+     "sme": true,
+     "start": "2027-06-25",
+     "title": "South",
+     "value": 1916666.66
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.procontract.due-north.com",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Arboricultural - Tree Works",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-06-25",
+   "status": "open",
+   "title": "Arboricultural - Tree Works",
+   "trades": [
+    "tree-work"
+   ],
+   "uk_wide": true,
+   "updated": "2026-11-16T13:45:46Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108485-2026",
+   "value": 6772666.67
+  },
+  "fts:ocds-h6vhtk-07bce0": {
+   "areas": [
+    "kent"
+   ],
+   "buyer": "Coastal Academies Trust",
+   "buyer_code": "UKJ44",
+   "buyer_postcode": "CT7 9BL",
+   "buyer_town": "Birchington",
+   "calloff": false,
+   "codes": [
+    "UKJ4"
+   ],
+   "contact": {
+    "email": "tenders@minervapcs.com",
+    "name": "Ben Jones",
+    "telephone": "01256467107"
+   },
+   "cpv": [
+    "55524000",
+    "90919300"
+   ],
+   "deadline": "2026-12-21T17:00:00+00:00",
+   "deadline_kind": "interest",
+   "desc": "Coastal Academies Trust is currently out to tender for the provision of a full daily catering service and daily cleaning service.\nLot1 - Catering Services\nThe services at the Trust schools are a mix of in-house and outsourced provision.\nThe Contractor will be responsible for the provision of a full school food catering service for the pupils and staff at the Trust schools. This will consist of breakfast and morning breaks at some sites and full lunch service for each school day at all sites.\nThe catering facilities at the schools include the main dining areas and servery, plus some sites also have a hot and cold Grab & Go section in the main servery, outlets are available to all pupils.\nAcross the Trust there are currently 5498 pupils on roll for the academic year 2026/27. Of this figure, 373 pupils are entitled to UIFSM and a further 2535 to Free School Meals.\nTUPE is expected to apply, details of which can be found in the tender documentation.\nSome members of the catering team are members of the Local Government Pension Scheme and all details are in the tender documentation.\nThe Trust is keen to further increase uptake and continue the good work already in place for catering. It wishes to do so by working closely with the successful contractor in developing and continuously improving the service and partnership during the period of the contract and by introducing innovative and creative ideas as submitted in the tender process and ongoing.\nThe Trust is aware that there are always opportunities to improve and modernise. They are interested in ensuring that the caterers provide the best possible service, introducing new menu ideas and initiatives so that pupils are all eating and utilising the service regularly.\nLot2 - Cleaning Services\nThe contract is being offered for three years with the option to extend for a further two periods of 12 months. The contract commencement date is 01 September 2027.\nThe contract is for a full daily cleaning service during term time and periodic cleaning outside of term time.\nTUPE is expected to apply, details of which can be found in the tender documentation.\nSome members of the cleaning team are members of the Local Government Pension Scheme and all details are in the tender documentation.",
+   "end": "2030-08-31",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bce0",
+   "lots": [
+    {
+     "end": "2030-08-31",
+     "max_end": "2032-08-31",
+     "sme": true,
+     "start": "2027-09-01",
+     "title": "Lot 1 - Catering",
+     "value": 7996752.25
+    },
+    {
+     "end": "2030-08-31",
+     "max_end": "2032-08-31",
+     "sme": true,
+     "start": "2027-09-01",
+     "title": "Lot 2 - Cleaning",
+     "value": 4492405.6
+    }
+   ],
+   "max_end": "2032-08-31",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://in-tendhost.co.uk/minervapcs/aspx/Home",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Coastal Academies Trust - Catering and Cleaning Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-09-01",
+   "status": "open",
+   "title": "Coastal Academies Trust - Catering and Cleaning Services",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T14:47:37Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108539-2026",
+   "value": 12489157.85
+  },
+  "fts:ocds-h6vhtk-07bcf0": {
+   "areas": [
+    "west-yorkshire"
+   ],
+   "buyer": "West Yorkshire Fire and Rescue Authority",
+   "buyer_code": "UKE44",
+   "buyer_postcode": "BD112DY",
+   "buyer_town": "Bradford",
+   "calloff": false,
+   "codes": [
+    "UKE4"
+   ],
+   "contact": {
+    "email": "Tenders@westyorksfire.gov.uk"
+   },
+   "cpv": [
+    "77314000"
+   ],
+   "deadline": "2027-01-08T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "West Yorkshire Fire and Rescue Authority (herein after referred to as the “Customer”) provide fire-fighting services from 40 Fire Stations, 3 close call houses adjacent to their associated fire station located throughout the county of West Yorkshire.\nThe FSHQ of the Customer is located at Bradford Road, Birkenshaw, West Yorkshire where there are 7 buildings. The site has recently undergone a full redevelopment and became fully operational in Summer 2025.\nThe Customer wishes to appoint a Contractor for the provision of Grounds Maintenance and Winter Services across all WYFRS sites during the different seasons of the year.\nThe contract will be in place for a period of 3 years with the option to extend 2 x 12 months.",
+   "end": "2030-01-07",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bcf0",
+   "lots": [
+    {
+     "end": "2030-01-07",
+     "max_end": "2032-01-07",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 400000.0
+    }
+   ],
+   "max_end": "2032-01-07",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://in-tendhost.co.uk/wyfrs/aspx/Home",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Grounds Maintenance and Winter Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Grounds Maintenance and Winter Services",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T15:36:14Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108574-2026",
+   "value": 400000.0
+  },
+  "fts:ocds-h6vhtk-07bd1f": {
+   "areas": [
+    "bedfordshire"
+   ],
+   "buyer": "Stotfold Town Council",
+   "buyer_code": "UKH25",
+   "buyer_postcode": "SG54HG",
+   "buyer_town": "Stotfold",
+   "calloff": false,
+   "codes": [
+    "UKC",
+    "UKD",
+    "UKE",
+    "UKF",
+    "UKG",
+    "UKH",
+    "UKI",
+    "UKJ",
+    "UKK"
+   ],
+   "contact": {
+    "email": "enquiries@stotfoldtowncouncil.gov.uk",
+    "name": "Charlie Allan",
+    "telephone": "01462730064"
+   },
+   "cpv": [
+    "77314000"
+   ],
+   "deadline": "2027-01-04T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "For the supply of grass cutting and grounds maintenance services to Stotfold Town Council from 2027-2030",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bd1f",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 126000.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Grass Cutting and Grounds Maintenance Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Grass Cutting and Grounds Maintenance Contract",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T16:48:40Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108660-2026",
+   "value": 126000.0
+  },
+  "fts:ocds-h6vhtk-07bd29": {
+   "areas": [
+    "glasgow-and-lanarkshire"
+   ],
+   "buyer": "Southside Housing Association Ltd",
+   "buyer_code": "UKM82",
+   "buyer_postcode": "G514EB",
+   "buyer_town": "Glasgow",
+   "calloff": false,
+   "codes": [
+    "UKM82"
+   ],
+   "contact": {
+    "email": "pfletcher@southside-ha.co.uk",
+    "name": "Pauline Fletcher",
+    "telephone": "+44 1414221112"
+   },
+   "cpv": [
+    "71421000",
+    "77211500",
+    "77310000",
+    "77311000",
+    "77312100",
+    "77313000",
+    "77314000",
+    "90910000",
+    "90911000",
+    "90911100"
+   ],
+   "deadline": "2026-12-16T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "The Contract will principally comprise landscape maintenance and common close cleaning services.\nThe landscape maintenance services will mainly include litter picking, grass cutting, shrub bed, hedging and leaf collection to existing properties and common landscaped areas throughout Cardonald and Pollokshields, Glasgow to the areas detailed within the Landscape Architects tender drawings. The Contract may also include tree maintenance services, tree and stump removal works, and repairs to existing damaged grass and other landscaped areas.\nThe landscape maintenance will initially be undertaken to estates located at St Andrews Drive, Queensland Community Garden and Halfway Community Park, however Southside Housing Association may introduce additional estates during the Contract that are located on the south side of Glasgow which shall be valued at the rates within Tender Document A where the maintenance requirements are similar in character. This contract is anticipated to include two estates where Southside Housing Association do not have landscape architects Maps or quantities at the date of inviting tenders.\nThe Common Close Cleaning maintenance requirements will principally involve weekly internal and external cleaning to properties, and also monthly, quarterly & six monthly cleaning activities (refer Specification Items 1-21 described within Tender Document C ‘Common Close Cleaning Specification’ for further information).\nBidders are also advised that Southside Housing Association may extend the common close cleaning requirement of the Contract to additional locations throughout the south side of Glasgow to take account of any changes to requirements or new stock acquired during the Contract.\nBidders are also advised that Glasgow City Council are currently introducing an on-street bin replacement programme. If any of the common close cleaning properties listed in the tender documentation participate in Glasgow City Council’s on-street replacement programme in the future, cleaning of the existing bin store areas to the property may no longer be required during the Contract.\nIn the event that cleaning of the bin store areas to a property is no longer required during the Contract, Southside Housing Association may instruct omission of the bin store cleaning to the property from the Contract and deduct the Contractor’s cost for the bin store cleaning to the p",
+   "end": "",
+   "first_seen": "2026-11-16",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bd29",
+   "lots": [
+    {
+     "end": "",
+     "max_end": "",
+     "sme": false,
+     "start": "",
+     "title": "",
+     "value": 1165000.0
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.publiccontractsscotland.gov.uk",
+   "postcodes": [],
+   "published": "2026-11-16",
+   "raw_title": "Landscape Maintenance and Common Close Cleaning Services Contract 2027-2029",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "",
+   "status": "open",
+   "title": "Landscape Maintenance and Common Close Cleaning Services Contract 2027-2029",
+   "trades": [
+    "cleaning",
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-16T17:11:56Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026",
+   "value": 1165000.0
   }
  }
 }
