@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-17",
+ "fetched_to": "2026-11-18",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -600,6 +600,55 @@
    "updated": "2026-10-14T14:30:42+01:00",
    "url": "https://www.contractsfinder.service.gov.uk/Notice/22213ffe-0591-4af1-ae08-e7d905bf9c50",
    "value": 90000.0
+  },
+  "cf:ocds-b5fd17-63ed4d46-aba2-4cd1-826f-f18ead413ab2": {
+   "areas": [
+    "west-midlands"
+   ],
+   "buyer": "BMet College",
+   "buyer_code": "",
+   "buyer_postcode": "B4 7PS",
+   "buyer_town": "Birmingham",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "support@multiquote.com",
+    "name": "Sue Perry",
+    "telephone": "0151 482 9230"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2026-12-17T10:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Birmingham Metropolitan College (BMET) is a College offering a wide range of courses for people of all ages across seven campuses in Birmingham. They are seeking a contractor to provide cleaning services at 4 of their sites. Cleaning of a regular and routine nature is required, together with more specific periodical cleaning outside of the term-time operation. The contract will be awarded for a period of 3 years commencing 1st October 2027 with an option to extend for a further one plus one years.\nTo access this competition:\nRegistered:\nLogin to https://suppliers.multiquote.com and view the opportunity CA18695.\nNot registered:\nVisit https://suppliers.multiquote.com then register and quote CA18695 as the reason for registration.\nAny queries please contact MultiQuote on 020 3920 8054.",
+   "end": "2030-09-30",
+   "first_seen": "2026-11-18",
+   "framework": false,
+   "id": "cf:ocds-b5fd17-63ed4d46-aba2-4cd1-826f-f18ead413ab2",
+   "lots": [],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [
+    "B4 7PS"
+   ],
+   "published": "2026-11-18",
+   "raw_title": "CA18695 - Birmingham Metropolitan College Tender for Cleaning Services Contract",
+   "regions": [],
+   "sme": true,
+   "src": "cf",
+   "start": "2027-10-01",
+   "status": "open",
+   "title": "Birmingham Metropolitan College Tender for Cleaning Services Contract",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-18T10:22:14Z",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/aa61d8bf-a6bc-4578-9c47-722945774723",
+   "value": 2158665.0
   },
   "cf:ocds-b5fd17-642e5da2-06cc-47de-aaa9-f602e8b3310f": {
    "areas": [
@@ -7290,9 +7339,9 @@
     "45233229",
     "77314100"
    ],
-   "deadline": "2026-11-18T11:00:00+00:00",
+   "deadline": "2026-11-25T11:00:00+00:00",
    "deadline_kind": "bid",
-   "desc": "Norse Grounds, a trading division of Norse Eastern Ltd undertake a programme of routine ground maintenance including grass cutting services in the Norwich area. Norse Grounds are seeking suitably qualified bids for the supply Grass cutting services.\nFor more information about this opportunity, please visit the eSourcing portal at:\nhttps://www.delta-esourcing.com/tenders/UK-UK-Norwich:-Verge-maintenance-work./K5B5T7Y78U\nTo respond to this opportunity, please click here:\nhttps://www.delta-esourcing.com/respond/K5B5T7Y78U",
+   "desc": "Norse Grounds, a trading division of Norse Eastern Ltd undertake a programme of routine ground maintenance including grass cutting services in the Norwich area. Norse Grounds are seeking suitably qualified bids for the supply Grass cutting services.",
    "end": "2028-02-29",
    "first_seen": "2026-10-19",
    "framework": false,
@@ -7312,7 +7361,7 @@
    "method_text": "Open procedure",
    "portal": "https://www.delta-esourcing.com/respond/K5B5T7Y78U",
    "postcodes": [],
-   "published": "2026-10-19",
+   "published": "2026-11-17",
    "raw_title": "Norwich City Verges Mowing 2026",
    "regions": [],
    "sme": true,
@@ -7324,8 +7373,8 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-19T13:21:27+01:00",
-   "url": "https://www.find-tender.service.gov.uk/Notice/098477-2026",
+   "updated": "2026-11-17T17:34:17Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109059-2026",
    "value": 525000.0
   },
   "fts:ocds-h6vhtk-078b02": {
@@ -11407,6 +11456,127 @@
    "updated": "2026-11-16T17:11:56Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026",
    "value": 1165000.0
+  },
+  "fts:ocds-h6vhtk-07be0f": {
+   "areas": [
+    "london"
+   ],
+   "buyer": "The Royal Central School of Speech and Drama",
+   "buyer_code": "UKI31",
+   "buyer_postcode": "NW3 3HY",
+   "buyer_town": "London",
+   "calloff": false,
+   "codes": [
+    "UKC",
+    "UKD",
+    "UKE",
+    "UKF",
+    "UKG",
+    "UKH",
+    "UKI",
+    "UKJ",
+    "UKK"
+   ],
+   "contact": {
+    "email": "Legal@cssd.ac.uk"
+   },
+   "cpv": [
+    "90910000"
+   ],
+   "deadline": "2026-11-27T18:00:00Z",
+   "deadline_kind": "interest",
+   "desc": "The The Royal Central School of Speech and Drama (\"RCSSD\") is seeking to appoint a contractor for the provision of cleaning services across its estate in London.\nThe successful supplier will be required to provide cleaning services, service management, quality assurance and associated reporting arrangements across the RCSSD estate. The anticipated service commencement date is 1 April 2027. TUPE may apply and relevant information will be made available at the appropriate stage of the procurement process.\nThe initial contract term is anticipated to be three years, with an option to extend for up to a further two years",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-17",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07be0f",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 2354744.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-17",
+   "raw_title": "Provision of Contracted Cleaning Services",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Contracted Cleaning Services",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-17T18:17:20Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109073-2026",
+   "value": 2354744.0
+  },
+  "fts:ocds-h6vhtk-07be1c": {
+   "areas": [
+    "county-durham"
+   ],
+   "buyer": "Durham County Council",
+   "buyer_code": "UKC14",
+   "buyer_postcode": "DH1 5WB",
+   "buyer_town": "Durham",
+   "calloff": false,
+   "codes": [
+    "UKC14"
+   ],
+   "contact": {
+    "email": "corporate.procurement@durham.gov.uk"
+   },
+   "cpv": [
+    "79993100",
+    "90911300"
+   ],
+   "deadline": "2026-12-16T10:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Durham County Council (DCC) requires a contract to be in place for the provision of window cleaning services across its estate. The Council currently has over 300 establishments that require a window cleaning service to be delivered on a range of frequencies, including monthly, quarterly, and biannual schedules, to meet operational and service specific cleaning standards. The building types that are included but not limited to are administrative offices, educational establishments, community buildings and operational sites.",
+   "end": "2029-02-28",
+   "first_seen": "2026-11-18",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07be1c",
+   "lots": [
+    {
+     "end": "2029-02-28",
+     "max_end": "2031-02-28",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "",
+     "value": 400000.0
+    }
+   ],
+   "max_end": "2031-02-28",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-18",
+   "raw_title": "Contract for the Provision of Window Cleaning Services across Durham County Council Premises",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-01",
+   "status": "open",
+   "title": "Window Cleaning Services across Durham County Council Premises",
+   "trades": [
+    "window-cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-18T08:23:43Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109089-2026",
+   "value": 400000.0
   }
  }
 }
