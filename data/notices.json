@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-18",
+ "fetched_to": "2026-11-19",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -299,6 +299,57 @@
    "updated": "2026-09-30T14:53:18+01:00",
    "url": "https://www.contractsfinder.service.gov.uk/Notice/a6c1f4e3-982a-43d7-aa2e-9130658973e2",
    "value": null
+  },
+  "cf:ocds-b5fd17-3bd93705-f5bb-4e37-9918-f2858133eb17": {
+   "areas": [
+    "london"
+   ],
+   "buyer": "London Borough of Haringey",
+   "buyer_code": "",
+   "buyer_postcode": "N6 4RH",
+   "buyer_town": "London",
+   "calloff": true,
+   "codes": [
+    "London"
+   ],
+   "contact": {
+    "email": "lcp@haringey.gov.uk",
+    "name": "Pui Yi Lee",
+    "telephone": "07837073563"
+   },
+   "cpv": [
+    "71000000"
+   ],
+   "deadline": "2026-11-24T14:31:50Z",
+   "deadline_kind": "bid",
+   "desc": "DPS1 1428 - Tree Work, weekend working and traffic management required\nAdditional information:\nhttps://londonconstructionprogramme.co.uk/services/dynamic-purchasing-systems/",
+   "end": "2027-02-12",
+   "first_seen": "2026-11-18",
+   "framework": false,
+   "id": "cf:ocds-b5fd17-3bd93705-f5bb-4e37-9918-f2858133eb17",
+   "lots": [],
+   "max_end": "",
+   "method": "selective",
+   "method_text": "Call-off from a dynamic purchasing system",
+   "portal": "",
+   "postcodes": [
+    "N6 4RH"
+   ],
+   "published": "2026-11-18",
+   "raw_title": "DPS1 1428 - Tree Work",
+   "regions": [],
+   "sme": true,
+   "src": "cf",
+   "start": "2027-01-11",
+   "status": "open",
+   "title": "DPS1 1428 - Tree Work",
+   "trades": [
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-18T15:13:55Z",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/dece663c-109e-4ad2-a077-5572237c4f15",
+   "value": 90000.0
   },
   "cf:ocds-b5fd17-3d3d30ac-db5d-4486-9215-d2115e092abe": {
    "areas": [
@@ -1604,6 +1655,57 @@
    "uk_wide": false,
    "updated": "2026-10-05T15:46:53+01:00",
    "url": "https://www.contractsfinder.service.gov.uk/Notice/7bfcf80b-3ad4-4676-a528-b12b9af5160d",
+   "value": 90000.0
+  },
+  "cf:ocds-b5fd17-cbb69f9b-991f-49c4-b1d7-d43842c34d07": {
+   "areas": [
+    "london"
+   ],
+   "buyer": "London Borough of Haringey",
+   "buyer_code": "",
+   "buyer_postcode": "N17 6PE",
+   "buyer_town": "London",
+   "calloff": true,
+   "codes": [
+    "London"
+   ],
+   "contact": {
+    "email": "lcp@haringey.gov.uk",
+    "name": "Pui Yi Lee",
+    "telephone": "07837073563"
+   },
+   "cpv": [
+    "71000000"
+   ],
+   "deadline": "2026-11-24T16:04:10Z",
+   "deadline_kind": "bid",
+   "desc": "DPS1 1442 - Downhills Park Tree Works\nAdditional information:\nhttps://londonconstructionprogramme.co.uk/services/dynamic-purchasing-systems/",
+   "end": "2026-12-20",
+   "first_seen": "2026-11-18",
+   "framework": false,
+   "id": "cf:ocds-b5fd17-cbb69f9b-991f-49c4-b1d7-d43842c34d07",
+   "lots": [],
+   "max_end": "",
+   "method": "selective",
+   "method_text": "Call-off from a dynamic purchasing system",
+   "portal": "",
+   "postcodes": [
+    "N17 6PE"
+   ],
+   "published": "2026-11-18",
+   "raw_title": "DPS1 1442 - Downhills Park Tree Works",
+   "regions": [],
+   "sme": true,
+   "src": "cf",
+   "start": "2026-12-08",
+   "status": "open",
+   "title": "DPS1 1442 - Downhills Park Tree Works",
+   "trades": [
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-18T16:12:07Z",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/b1891b50-4683-41f2-8f74-ebbebe0e4e42",
    "value": 90000.0
   },
   "cf:ocds-b5fd17-ea5fd546-8076-4d49-9682-066ccec51028": {
@@ -7947,7 +8049,7 @@
     "77314000",
     "90911000"
    ],
-   "deadline": "2026-11-25T12:00:00Z",
+   "deadline": "2026-12-02T12:00:00Z",
    "deadline_kind": "bid",
    "desc": "Habinteg Housing Association wishes to appoint one or more Supplier(s) to deliver communal cleaning and grounds maintenance services across its residential schemes in Northeast England.\nThe services are intended to ensure that communal areas are maintained to an appropriate standard, providing safe, clean and well-maintained environments for residents.\nThe opportunity has been divided into four Lots, comprising:\nLot 1 - Communal Cleaning in the Northeast\nLot 2(a) - Grounds Maintenance in North Shields and Royal Quays\nLot 2(b) - Grounds Maintenance in Stockton, Hemlington and Whinney Banks\nLot 2(c) - Grounds Maintenance in Yarm\nThe successful Supplier(s) will be expected to provide services to all sites within the Lot(s) awarded.\nSuppliers may submit a Tender Response for any or all Lots. Each Lot will be evaluated independently, and there is no restriction on the number of Lots that may be awarded to an individual Supplier.\nHabinteg welcomes bids from suppliers of all sizes, including small and medium-sized enterprises (SMEs), and has structured the opportunity into Lots to encourage competition and maximise opportunities for local suppliers.\nSuppliers are required to attend a mandatory site visit for the Lot(s) they intend to bid for. Site visit dates, locations and the registration process are detailed within Schedule 1. Suppliers are responsible for ensuring that they attend all mandatory site visits relevant to their Tender Response. Attendance must be registered no later than 12:00 noon on 30th October 2026.\nHabinteg has established Lot-specific and site-specific budget caps as detailed within the relevant Schedule 4 - Pricing Schedule. Suppliers must ensure that submitted pricing does not exceed the applicable budget cap(s).\nHabinteg is seeking to establish constructive and collaborative relationships with its appointed Supplier(s), working in partnership to deliver high-quality services, achieve value for money and support positive outcomes for residents throughout the Contract Term.\nWithin the Pricing Schedule, Habinteg has identified the schemes and properties currently requiring service delivery. Should this portfolio require amendment during the Contract Term, including the addition, removal or alteration of schemes, properties or service requirements, this shall be considered the materialisation of a known risk and shall be managed in accordance ",
    "end": "2030-03-31",
@@ -7961,7 +8063,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Communal Cleaning in the Northeast",
-     "value": 110181.6
+     "value": 132217.92
     },
     {
      "end": "2030-03-31",
@@ -7969,7 +8071,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Grounds Maintenance in North Shields and Royal Quays",
-     "value": 47516.21
+     "value": 57019.46
     },
     {
      "end": "2030-03-31",
@@ -7977,7 +8079,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Grounds Maintenance in Stockton, Hemlington and Whinney Banks",
-     "value": 121259.57
+     "value": 145510.45
     },
     {
      "end": "2030-03-31",
@@ -7985,7 +8087,7 @@
      "sme": true,
      "start": "2027-04-01",
      "title": "Grounds Maintenance in Yarm",
-     "value": 49893.54
+     "value": 59872.33
     }
    ],
    "max_end": "2032-03-31",
@@ -7993,7 +8095,7 @@
    "method_text": "Open procedure",
    "portal": "https://procontract.due-north.com/Opportunities/Index?p=18d7f93d-94bb-ef11-8132-005056b64545&v=2",
    "postcodes": [],
-   "published": "2026-10-20",
+   "published": "2026-11-18",
    "raw_title": "Procurement for Communal Cleaning and Grounds Maintenance in Northeast England (Habinteg)(Split into Lots)",
    "regions": [],
    "sme": true,
@@ -8006,9 +8108,9 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-20T16:41:00+01:00",
-   "url": "https://www.find-tender.service.gov.uk/Notice/099182-2026",
-   "value": 328850.92
+   "updated": "2026-11-18T16:09:27Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109415-2026",
+   "value": 394620.16
   },
   "fts:ocds-h6vhtk-078c3b": {
    "areas": [
@@ -11497,7 +11599,7 @@
      "sme": false,
      "start": "2027-04-01",
      "title": "",
-     "value": 2354744.0
+     "value": 2000000.0
     }
    ],
    "max_end": "2032-03-31",
@@ -11505,7 +11607,7 @@
    "method_text": "Competitive flexible procedure",
    "portal": "",
    "postcodes": [],
-   "published": "2026-11-17",
+   "published": "2026-11-19",
    "raw_title": "Provision of Contracted Cleaning Services",
    "regions": [],
    "sme": false,
@@ -11517,9 +11619,9 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-11-17T18:17:20Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/109073-2026",
-   "value": 2354744.0
+   "updated": "2026-11-19T09:48:45Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109568-2026",
+   "value": 2000000.0
   },
   "fts:ocds-h6vhtk-07be1c": {
    "areas": [
@@ -11577,6 +11679,120 @@
    "updated": "2026-11-18T08:23:43Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/109089-2026",
    "value": 400000.0
+  },
+  "fts:ocds-h6vhtk-07bf70": {
+   "areas": [
+    "kent"
+   ],
+   "buyer": "St Margaret's At Cliffe Parish Council",
+   "buyer_code": "UKJ44",
+   "buyer_postcode": "CT15 6AP",
+   "buyer_town": "St Margaret's At Cliffe",
+   "calloff": false,
+   "codes": [
+    "UKJ44"
+   ],
+   "contact": {
+    "email": "procurement@stmargaretsparishcouncil.gov.uk"
+   },
+   "cpv": [
+    "77314000",
+    "77342000"
+   ],
+   "deadline": "2026-12-18T17:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Provision of village maintenance services for St Margaret's-at-Cliffe Parish Council, including routine and scheduled maintenance of parish-owned and managed public areas, grounds, street furniture, play areas and other specified locations within the parish.\nThe contract will comprise an initial three-year term with the option for the Council to extend for two further one-year periods (3+1+1), subject to satisfactory performance and the Council's requirements continuing.\nThe service will include the activities and locations detailed in the Village Maintenance Service Specification and Locations & Schedules.",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-19",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bf70",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 135000.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-19",
+   "raw_title": "Village Maintenance Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Village Maintenance Contract",
+   "trades": [
+    "grounds-maintenance",
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-19T12:29:54Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109699-2026",
+   "value": 135000.0
+  },
+  "fts:ocds-h6vhtk-07bf87": {
+   "areas": [],
+   "buyer": "Via East Midlands Limited",
+   "buyer_code": "UKF15",
+   "buyer_postcode": "NG22 8ST",
+   "buyer_town": "Bilsthorpe",
+   "calloff": false,
+   "codes": [
+    "UKF"
+   ],
+   "contact": {
+    "email": "Procurement@viaem.co.uk"
+   },
+   "cpv": [
+    "90640000"
+   ],
+   "deadline": "2027-01-08T11:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Via manage and maintain drainage systems on the adopted highway on behalf of Nottinghamshire County Council. This includes all routine cleansing of gullies, offlets and any subsequent maintenance requirements on a defective asset.\nA service is required to proactively cleanse all gullies and offlets on the highway within Nottinghamshire, and connections checked for free flow in accordance with the frequencies identified in the specification.\nVia is seeking to appoint one service provider to undertake gully cleansing and associated works to all classes of Local Highway Authority roads within the area of Nottinghamshire. Please note this excludes the City of Nottingham.\nPremarket engagement was not used for this tender due to Via East Midlands having a clear specification of service requirements.",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-19",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bf87",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 3500000.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "open",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://supplierlive.proactisp2p.com/Account/Login",
+   "postcodes": [],
+   "published": "2026-11-19",
+   "raw_title": "Gully Cleansing",
+   "regions": [
+    "east-midlands"
+   ],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Gully Cleansing",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-19T13:17:11Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109745-2026",
+   "value": 3500000.0
   }
  }
 }
