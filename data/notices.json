@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-19",
+ "fetched_to": "2026-11-20",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -1904,6 +1904,102 @@
    "updated": "2026-10-23T09:03:17+01:00",
    "url": "https://www.contractsfinder.service.gov.uk/Notice/389fcf27-6431-46f2-8ba7-dbe3dd8779fa",
    "value": 309000.0
+  },
+  "cf:ocds-b5fd17-fcdf5d16-dec9-462f-946a-8b0b79ea6927": {
+   "areas": [
+    "greater-manchester"
+   ],
+   "buyer": "Hopwood Hall College",
+   "buyer_code": "",
+   "buyer_postcode": "M24 6XH",
+   "buyer_town": "Rochdale",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "support@multiquote.com",
+    "name": "Natalia Piecyk",
+    "telephone": "0151 482 9230"
+   },
+   "cpv": [
+    "77314000"
+   ],
+   "deadline": "2026-12-18T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Hopwood Hall College is looking for a supplier for provision of Grounds Maintenance Services. For more information, please review tender documents.\nTo access this competition:\nRegistered:\nLogin to https://suppliers.multiquote.com and view the opportunity CA18612.\nNot registered:\nVisit https://suppliers.multiquote.com then register and quote CA18612 as the reason for registration.\nAny queries please contact MultiQuote on 020 3920 8054.",
+   "end": "2030-03-07",
+   "first_seen": "2026-11-20",
+   "framework": false,
+   "id": "cf:ocds-b5fd17-fcdf5d16-dec9-462f-946a-8b0b79ea6927",
+   "lots": [],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [
+    "M24 6XH"
+   ],
+   "published": "2026-11-20",
+   "raw_title": "CA18612 - Hopwood Hall College - Provision of Grounds Maintenance Services",
+   "regions": [],
+   "sme": true,
+   "src": "cf",
+   "start": "2027-03-08",
+   "status": "open",
+   "title": "Hopwood Hall College - Provision of Grounds Maintenance Services",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-20T12:37:48Z",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c2ab4601-e5c1-48d2-a816-27d0a4ffeca7",
+   "value": 425000.0
+  },
+  "fts:ocds-h6vhtk-02d148": {
+   "areas": [
+    "london"
+   ],
+   "buyer": "Tower Hamlets",
+   "buyer_code": "UKI4",
+   "buyer_postcode": "E1 1BJ",
+   "buyer_town": "London",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "Edwin.Atuegbu@towerhamlets.gov.uk",
+    "name": "Mr Edwin Atuegbu",
+    "telephone": "+44 2073644099"
+   },
+   "cpv": [
+    "77211500"
+   ],
+   "deadline": "",
+   "deadline_kind": "",
+   "desc": "This is an Arboricultural Service Agreement to ensure tree works are carried out safely and promptly on all the Council’s highways, parks and open space trees, including tree planting and watering",
+   "end": "",
+   "first_seen": "2026-11-19",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-02d148",
+   "lots": [],
+   "max_end": "",
+   "method": "",
+   "method_text": "",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-19",
+   "raw_title": "P5718: Arboriculture Services Contract",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "",
+   "status": "open",
+   "title": "Arboriculture Services Contract",
+   "trades": [
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-19T21:07:29Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110006-2026",
+   "value": null
   },
   "fts:ocds-h6vhtk-05040e": {
    "areas": [
@@ -7615,7 +7711,7 @@
    "cpv": [
     "90910000"
    ],
-   "deadline": "2026-11-20T12:00:00Z",
+   "deadline": "2026-11-25T12:00:00Z",
    "deadline_kind": "bid",
    "desc": "South Hams District Council and West Devon Borough councils are local authorities in Devon, England. They are responsible for delivering a wide range of public services to residents across a largely rural and coastal area. The council focuses on maintaining high-quality services such as waste collection, planning, housing, and environmental protection. It places strong emphasis on sustainability, community empowerment, and digital inclusion, aiming to support both economic growth and environmental stewardship.\nFollowing the end of the Council's current cleaning contract which is due to expire March 31st 2027, the Council is inviting tenders to bid on a new contract for this going forward.",
    "end": "2029-03-31",
@@ -7637,7 +7733,7 @@
    "method_text": "Below threshold - open competition",
    "portal": "",
    "postcodes": [],
-   "published": "2026-10-21",
+   "published": "2026-11-19",
    "raw_title": "SHWD Cleaning",
    "regions": [],
    "sme": true,
@@ -7649,8 +7745,8 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-10-21T15:00:45+01:00",
-   "url": "https://www.find-tender.service.gov.uk/Notice/099577-2026",
+   "updated": "2026-11-19T15:42:26Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109889-2026",
    "value": 150000.0
   },
   "fts:ocds-h6vhtk-078b1d": {
@@ -8848,7 +8944,7 @@
    "cpv": [
     "77314000"
    ],
-   "deadline": "2026-11-30T23:59:59Z",
+   "deadline": "2026-12-18T23:59:00Z",
    "deadline_kind": "bid",
    "desc": "Keep the whole area in neat and tidy state, cut/strim grass including grave-kerbing, headstones and memorials (weekly in the summer) Strimming still to take place even if the grass has stopped growing in the summer heat, as many of the weeds keep growing. Area at the end, by the road, in the old S/E part of the cemetery to be included. Also, under the trees at the new end (next to extension) 40 Litter-pick the whole area 40 Keep paths free of weeds and edges tidy. NB: spray with weed killer 20 Cut grass in the extension 10 Cut all hedges on inside (mostly the roadside hedge and hedge along the top - the extension hedge is done by tractor and flail on a separate contract)",
    "end": "2027-12-31",
@@ -8870,7 +8966,7 @@
    "method_text": "Below threshold - open competition",
    "portal": "",
    "postcodes": [],
-   "published": "2026-10-29",
+   "published": "2026-11-20",
    "raw_title": "cemetery grounds maintenance",
    "regions": [],
    "sme": true,
@@ -8882,8 +8978,8 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-29T08:46:27Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/102365-2026",
+   "updated": "2026-11-20T12:23:24Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110127-2026",
    "value": 6000.0
   },
   "fts:ocds-h6vhtk-07930f": {
@@ -9759,6 +9855,88 @@
    "updated": "2026-11-03T15:10:12Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/104330-2026",
    "value": 1820000.0
+  },
+  "fts:ocds-h6vhtk-0796e8": {
+   "areas": [
+    "hampshire"
+   ],
+   "buyer": "The Swaythling Housing Society Ltd (Trading as Abri)",
+   "buyer_code": "UKJ35",
+   "buyer_postcode": "SO50 6AD",
+   "buyer_town": "Eastleigh",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "procurement.team@abri.co.uk",
+    "name": "Mitali Garg"
+   },
+   "cpv": [
+    "45452000",
+    "90910000",
+    "90911000",
+    "90911300"
+   ],
+   "deadline": "2026-12-21T14:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "The purpose of this tender is to appoint a capable window cleaning operator to deliver and manage a fully managed window cleaning service across Abri's corporate offices and selected schemes. The successful supplier will work collaboratively with Abri to provide a safe, reliable and high-quality service that meets the needs of each location.\nThe service will include the provision of all labour, equipment, materials, supervision, scheduling, health and safety management, performance monitoring and reporting, and ongoing contract management required to deliver the service. Abri is seeking a scalable, reliable and customer-focused solution that ensures consistently high standards of cleanliness, supports compliance with health and safety requirements, and provides an efficient and consistent approach to window cleaning across its portfolio.",
+   "end": "2030-03-22",
+   "first_seen": "2026-11-19",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-0796e8",
+   "lots": [
+    {
+     "end": "2030-03-22",
+     "max_end": "2037-03-23",
+     "sme": false,
+     "start": "2027-03-24",
+     "title": "South West",
+     "value": 450000.0
+    },
+    {
+     "end": "2030-03-22",
+     "max_end": "2037-03-23",
+     "sme": false,
+     "start": "2027-03-24",
+     "title": "South",
+     "value": 1440000.0
+    },
+    {
+     "end": "2030-03-22",
+     "max_end": "2037-03-23",
+     "sme": false,
+     "start": "2027-03-24",
+     "title": "South East",
+     "value": 2200000.0
+    },
+    {
+     "end": "2030-03-22",
+     "max_end": "2037-03-23",
+     "sme": false,
+     "start": "2027-03-24",
+     "title": "London",
+     "value": 891500.0
+    }
+   ],
+   "max_end": "2037-03-23",
+   "method": "open",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://in-tendhost.co.uk/abri/aspx/Home",
+   "postcodes": [],
+   "published": "2026-11-19",
+   "raw_title": "Window Cleaning Services",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-03-24",
+   "status": "open",
+   "title": "Window Cleaning Services",
+   "trades": [
+    "window-cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-19T15:44:26Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109893-2026",
+   "value": 4151250.0
   },
   "fts:ocds-h6vhtk-07b33a": {
    "areas": [],
@@ -11793,6 +11971,181 @@
    "updated": "2026-11-19T13:17:11Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/109745-2026",
    "value": 3500000.0
+  },
+  "fts:ocds-h6vhtk-07bfe1": {
+   "areas": [
+    "london"
+   ],
+   "buyer": "Wellington Primary School",
+   "buyer_code": "UKI42",
+   "buyer_postcode": "E3 4NE",
+   "buyer_town": "Bow",
+   "calloff": false,
+   "codes": [
+    "UKI4"
+   ],
+   "contact": {
+    "email": "info@cohesionconsulting.co.uk",
+    "name": "Cohesion Procurement Team"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2027-01-08T13:00:00+00:00",
+   "deadline_kind": "interest",
+   "desc": "Tender in-tend description text\nTower Hamlets Education Partnership (THEP) is coordinating a collective procurement exercise involving ten (10) participating schools within the London Borough of Tower Hamlets, managed by Cohesion Consulting Ltd (CCL).\nThe participating Schools have come together to procure cleaning services jointly, seeking to achieve economies of scale, improved value for money and consistent service standards, whilst each school retains its individual autonomy.\nThe Schools are seeking experienced and reliable cleaning contractor(s) to deliver high-quality, consistent and responsive cleaning services across their premises, with the majority commencing on 1 September 2027. However, individual Schools may require earlier commencement dates, which will be confirmed within the procurement documents.\nThe Schools' preference is to appoint a single Contractor across the collective, recognising the opportunities for shared resources, operational efficiencies, consistent standards and improved value for money. However, each School will enter into its own cleaning services contract, incorporating a standard Cleaning Specification and an individual Financial Model. The Schools reserve the right to award contracts individually, including to different Contractors, in accordance with the published evaluation and award methodology.\nA further number of additional schools within the London Borough of Tower Hamlets, identified as potential participants within the procurement documents, may join the collective during the PSQ stage. Where additional Schools are confirmed, the updated list of participating Schools and relevant procurement information will be made available to all interested bidders through the In-Tend portal. The final list of participating Schools will be confirmed before the PSQ submission deadline.\nBidders must submit a fully compliant tender covering every participating School. Partial tenders will not be accepted.\nEach Contract will be for an initial three-year period from its respective Service Commencement Date, with the option to extend for up to two further years (1+1), subject to satisfactory performance and the terms of the Contract. The Contracts will include termly and annual performance reviews and a break clause to support both parties should the relationship not prosper.\nThe Schools are seeking a proactive cleaning partner capab",
+   "end": "2030-08-31",
+   "first_seen": "2026-11-19",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07bfe1",
+   "lots": [
+    {
+     "end": "2030-08-31",
+     "max_end": "2032-08-31",
+     "sme": true,
+     "start": "2027-09-01",
+     "title": "",
+     "value": 3871939.0
+    }
+   ],
+   "max_end": "2032-08-31",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-19",
+   "raw_title": "THEP Schools Collective Cleaning Tender",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-09-01",
+   "status": "open",
+   "title": "THEP Schools Collective Cleaning Tender",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-19T16:12:32Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109921-2026",
+   "value": 3871939.0
+  },
+  "fts:ocds-h6vhtk-07c046": {
+   "areas": [
+    "leicestershire"
+   ],
+   "buyer": "East Midlands Housing Group",
+   "buyer_code": "UKF22",
+   "buyer_postcode": "LE67 4JP",
+   "buyer_town": "Coalville",
+   "calloff": false,
+   "codes": [
+    "UKF"
+   ],
+   "contact": {
+    "email": "procurement@emh.co.uk",
+    "telephone": "01530 276000"
+   },
+   "cpv": [
+    "71421000",
+    "77314000",
+    "77340000",
+    "77342000"
+   ],
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "This contract is to provide communal gardening and grounds maintenance services for Northamptonshire Rural Housing Association (NRHA). This competitive tender process is being run East Midlands Housing Group and Midlands Rural Housing and Village Development Association (EMH) on their behalf.\nWorks entail regular year-round care of outdoor spaces to ensure safety and aesthetic appeal. Core tasks include but are not limited to grass cutting, weed control, cutting and pruning of shrubs and trees (inc conifers), hedge trimming, clearing ditches and litter picking.\nIt will also be necessary to carry out ad-hoc maintenance works that range from emergency tree surgery, one off clearances and seasonal repairs. The scope of works includes tree surgery, fly-tipping clearance, slabbing, fencing and winter gritting and out of hours culvert clearing to prevent flooding.\nFor more information about this opportunity, please visit the eSourcing portal at:\nhttps://www.delta-esourcing.com/tenders/UK-UK-Coalville:-Landscape-gardening-services./44F64Q82W5\nTo respond to this opportunity, please click here:\nhttps://www.delta-esourcing.com/respond/44F64Q82W5",
+   "end": "2031-03-31",
+   "first_seen": "2026-11-20",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c046",
+   "lots": [
+    {
+     "end": "2031-03-31",
+     "max_end": "2035-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 800000.0
+    }
+   ],
+   "max_end": "2035-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.delta-esourcing.com/respond/44F64Q82W5",
+   "postcodes": [],
+   "published": "2026-11-20",
+   "raw_title": "Communal gardening and grounds maintenance services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Communal gardening and grounds maintenance services",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-20T12:23:02Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110126-2026",
+   "value": 800000.0
+  },
+  "fts:ocds-h6vhtk-07c04d": {
+   "areas": [
+    "greater-manchester"
+   ],
+   "buyer": "Hopwood Hall College",
+   "buyer_code": "UKD37",
+   "buyer_postcode": "M24 6XH",
+   "buyer_town": "Rochdale",
+   "calloff": false,
+   "codes": [
+    "UK"
+   ],
+   "contact": {
+    "email": "n.piecyk@thecpc.ac.uk",
+    "name": "Natalia Piecyk",
+    "telephone": "01376 511411"
+   },
+   "cpv": [
+    "77314000"
+   ],
+   "deadline": "2026-12-18T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Hopwood Hall College is looking for a supplier for provision of Grounds Maintenance Services. For more information, please review tender documents.",
+   "end": "2030-03-07",
+   "first_seen": "2026-11-20",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c04d",
+   "lots": [
+    {
+     "end": "2030-03-07",
+     "max_end": "2032-03-07",
+     "sme": true,
+     "start": "2027-03-08",
+     "title": "",
+     "value": 425000.0
+    }
+   ],
+   "max_end": "2032-03-07",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://suppliers.multiquote.com",
+   "postcodes": [],
+   "published": "2026-11-20",
+   "raw_title": "Hopwood Hall College - Provision of Grounds Maintenance Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-08",
+   "status": "open",
+   "title": "Hopwood Hall College - Provision of Grounds Maintenance Services",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-20T12:37:13Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110140-2026",
+   "value": 425000.0
   }
  }
 }
