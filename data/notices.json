@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-20",
+ "fetched_to": "2026-11-21",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -12146,6 +12146,180 @@
    "updated": "2026-11-20T12:37:13Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/110140-2026",
    "value": 425000.0
+  },
+  "fts:ocds-h6vhtk-07c082": {
+   "areas": [
+    "ayrshire"
+   ],
+   "buyer": "East Ayrshire Council",
+   "buyer_code": "UKM93",
+   "buyer_postcode": "KA3 7BU",
+   "buyer_town": "Kilmarnock",
+   "calloff": false,
+   "codes": [
+    "UKM93"
+   ],
+   "contact": {
+    "email": "lesley.robertson@east-ayrshire.gov.uk",
+    "telephone": "+44 1563554400"
+   },
+   "cpv": [
+    "90910000",
+    "90911200"
+   ],
+   "deadline": "2026-12-21T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "General cleaning of the Kilmarnock Bus Station, KA1 1JU. The areas covered by this contract are all public areas including the passenger concourse, access routes, waiting room, disabled toilet and Shopmobility Office.",
+   "end": "",
+   "first_seen": "2026-11-20",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c082",
+   "lots": [
+    {
+     "end": "",
+     "max_end": "",
+     "sme": false,
+     "start": "",
+     "title": "",
+     "value": null
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.publictendersscotland.publiccontractsscotland.gov.uk",
+   "postcodes": [],
+   "published": "2026-11-20",
+   "raw_title": "PS/26/172 - Kilmarnock Bus Station Cleaning",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "",
+   "status": "open",
+   "title": "Kilmarnock Bus Station Cleaning",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-20T14:32:02Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110216-2026",
+   "value": 200000.0
+  },
+  "fts:ocds-h6vhtk-07c091": {
+   "areas": [
+    "gloucestershire"
+   ],
+   "buyer": "Stroud District Council",
+   "buyer_code": "UKK13",
+   "buyer_postcode": "GL5 4UB",
+   "buyer_town": "Stroud",
+   "calloff": false,
+   "codes": [
+    "UKK13"
+   ],
+   "contact": {
+    "email": "procurement@stroud.gov.uk"
+   },
+   "cpv": [
+    "77200000",
+    "77300000"
+   ],
+   "deadline": "2026-12-15T15:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Stroud District Council is seeking a qualified Supplier to provide Arboricultural Works within the Stroud District. The Authority requires the successful Supplier to perform both planned and reactive services, including the provision of an emergency call-out service where required. Various departments within the Authority will request services through this agreement, primarily as a result of prior surveys, inspections and risk assessment recommendations. Please see the procurement documents for further information",
+   "end": "2030-01-02",
+   "first_seen": "2026-11-20",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c091",
+   "lots": [
+    {
+     "end": "2030-01-02",
+     "max_end": "2031-01-02",
+     "sme": true,
+     "start": "2027-01-03",
+     "title": "",
+     "value": 283333.0
+    }
+   ],
+   "max_end": "2031-01-02",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-20",
+   "raw_title": "Arboricultural Works for Stroud District Council",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-01-03",
+   "status": "open",
+   "title": "Arboricultural Works for Stroud District Council",
+   "trades": [
+    "tree-work",
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-20T15:07:29Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110248-2026",
+   "value": 283333.0
+  },
+  "fts:ocds-h6vhtk-07c09d": {
+   "areas": [
+    "west-midlands"
+   ],
+   "buyer": "BMet College",
+   "buyer_code": "UKG31",
+   "buyer_postcode": "B4 7PS",
+   "buyer_town": "Birmingham",
+   "calloff": false,
+   "codes": [
+    "UK"
+   ],
+   "contact": {
+    "email": "admin@wlpconsultancy.co.uk",
+    "name": "Sue Perry",
+    "telephone": "01691 664234"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2026-12-17T10:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Birmingham Metropolitan College (BMET) is a College offering a wide range of courses for people of all ages across seven campuses in Birmingham. They are seeking a contractor to provide cleaning services at 4 of their sites. Cleaning of a regular and routine nature is required, together with more specific periodical cleaning outside of the term-time operation. The contract will be awarded for a period of 3 years commencing 1st October 2027 with an option to extend for a further one plus one years.",
+   "end": "2030-09-30",
+   "first_seen": "2026-11-20",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c09d",
+   "lots": [
+    {
+     "end": "2030-09-30",
+     "max_end": "2032-09-30",
+     "sme": true,
+     "start": "2027-10-01",
+     "title": "",
+     "value": 2158665.0
+    }
+   ],
+   "max_end": "2032-09-30",
+   "method": "open",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://suppliers.multiquote.com",
+   "postcodes": [],
+   "published": "2026-11-20",
+   "raw_title": "Birmingham Metropolitan College Tender for Cleaning Services Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-10-01",
+   "status": "open",
+   "title": "Birmingham Metropolitan College Tender for Cleaning Services Contract",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-20T15:30:25Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110264-2026",
+   "value": 2158665.0
   }
  }
 }
