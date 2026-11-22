@@ -9,7 +9,7 @@ FORMSPREE_ID = "mdeabnwz"
 FORM_ACTION = f"https://formspree.io/f/{FORMSPREE_ID}"
 
 CONTACT_EMAIL = "info@betttech.co.uk"
-PRICE = "£20 a month, including VAT"
+PRICE = "£20 a month"
 TRIAL_WEEKS = "four"
 COMPANY = "Betttech Global Ventures Ltd, company no. 11753604"
 OFFICE = "7 Clim Down, Kingsdown, Deal, Kent CT14 8EX"
