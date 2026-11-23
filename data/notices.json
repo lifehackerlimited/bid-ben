@@ -2425,6 +2425,69 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/106441-2026",
    "value": 20000000.0
   },
+  "fts:ocds-h6vhtk-066f75": {
+   "areas": [
+    "north-wales"
+   ],
+   "buyer": "Wrexham County Borough Council",
+   "buyer_code": "UKL23",
+   "buyer_postcode": "LL11 1AR",
+   "buyer_town": "Wrexham",
+   "calloff": false,
+   "codes": [
+    "UKL23"
+   ],
+   "contact": {
+    "email": "procurement@wrexham.gov.uk"
+   },
+   "cpv": [
+    "45112700",
+    "45112710",
+    "45112711",
+    "45112712",
+    "45112714",
+    "45112720",
+    "45112723",
+    "77314000"
+   ],
+   "deadline": "2027-01-11T17:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Wrexham County Borough (WCBC) is looking to establish a Framework Agreement for Landscape and Grounds Maintenance Works. All sites, assets, estates and properties owned and / or managed by Wrexham County Borough Council fall within the scope of this Framework, including all School sites.\nThis is a single lot Framework and it is anticipated that up to two (2) contractors will be appointed to the Framework to provide suitable capacity and resources to meet the needs of WCBC, with work / orders allocated as per the accompanying tender documentation. It is envisaged that there will be one Primary Contractor and one in reserve, but WCBC reserves the right to appoint fewer than two (2) Contactors to the Framework / Lot. This will be at the sole discretion of WCBC.\nThe proposed duration of the Framework Agreement will be two (2) years with the option to extend for a further two (2) twelve (12) month periods.\nFor full details of the Framework Structure, the number of Contractors that will be appointed and how work orders will be issued, please refer to the Preliminaries document attached to this tender opportunity.\nTender documents are available free of charger via etenderWales\nhttps://etenderwales.ukp.app.jaggaer.com/home.html\nproject_64691\nitt_128278",
+   "end": "2029-01-31",
+   "first_seen": "2026-11-23",
+   "framework": true,
+   "id": "fts:ocds-h6vhtk-066f75",
+   "lots": [
+    {
+     "end": "2029-01-31",
+     "max_end": "2031-01-31",
+     "sme": true,
+     "start": "2027-02-01",
+     "title": "",
+     "value": 500000.0
+    }
+   ],
+   "max_end": "2031-01-31",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "https://etenderwales.ukp.app.jaggaer.com/home.html",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "Framework Agreement for Landscape and Grounds Maintenance Works",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-02-01",
+   "status": "open",
+   "title": "Framework Agreement for Landscape and Grounds Maintenance Works",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T15:03:52Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110663-2026",
+   "value": 500000.0
+  },
   "fts:ocds-h6vhtk-06843a": {
    "areas": [
     "cheshire"
@@ -8828,7 +8891,7 @@
    "cpv": [
     "77314000"
    ],
-   "deadline": "2026-11-30T23:59:59Z",
+   "deadline": "2026-12-18T23:59:00Z",
    "deadline_kind": "bid",
    "desc": "Grass cutting, strimming, removing brambles/weeds, weed spraying, trimming shrubs.\nGainsborough Playpark, and other areas",
    "end": "2027-12-31",
@@ -8850,7 +8913,7 @@
    "method_text": "Below threshold - open competition",
    "portal": "",
    "postcodes": [],
-   "published": "2026-10-29",
+   "published": "2026-11-23",
    "raw_title": "Grounds Maintenance - General Areas",
    "regions": [],
    "sme": true,
@@ -8862,8 +8925,8 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-29T08:14:28Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/102357-2026",
+   "updated": "2026-11-23T12:11:59Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110502-2026",
    "value": 7500.0
   },
   "fts:ocds-h6vhtk-0792f7": {
@@ -8886,7 +8949,7 @@
    "cpv": [
     "77314000"
    ],
-   "deadline": "2026-11-30T23:59:59Z",
+   "deadline": "2026-12-18T23:59:00Z",
    "deadline_kind": "bid",
    "desc": "regular timetabled cutting of grass pitches and verges, and weed maintenance",
    "end": "2027-12-31",
@@ -8908,7 +8971,7 @@
    "method_text": "Below threshold - open competition",
    "portal": "",
    "postcodes": [],
-   "published": "2026-10-29",
+   "published": "2026-11-23",
    "raw_title": "Springfield Road grounds maintenance",
    "regions": [],
    "sme": true,
@@ -8920,8 +8983,8 @@
     "grounds-maintenance"
    ],
    "uk_wide": false,
-   "updated": "2026-10-29T08:34:35Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/102361-2026",
+   "updated": "2026-11-23T12:10:26Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110500-2026",
    "value": 6000.0
   },
   "fts:ocds-h6vhtk-0792f9": {
@@ -9420,7 +9483,7 @@
    "cpv": [
     "90910000"
    ],
-   "deadline": "2026-11-27T12:00:00+00:00",
+   "deadline": "2026-12-01T12:00:00+00:00",
    "deadline_kind": "bid",
    "desc": "Swansea Council requires provision of a celaning serivce for the Quadrant Bus Station in Swansea.",
    "end": "2030-01-03",
@@ -9442,7 +9505,7 @@
    "method_text": "Open procedure",
    "portal": "https://etenderwales.ukp.app.jaggaer.com/home.html",
    "postcodes": [],
-   "published": "2026-11-02",
+   "published": "2026-11-23",
    "raw_title": "Contract for the Provision of cleaning services at Swansea City Bus Station",
    "regions": [],
    "sme": true,
@@ -9454,8 +9517,8 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-11-02T12:59:51Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/103719-2026",
+   "updated": "2026-11-23T15:06:35Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110668-2026",
    "value": 700000.0
   },
   "fts:ocds-h6vhtk-0795c9": {
@@ -12597,6 +12660,132 @@
    "updated": "2026-11-23T10:24:06Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/110440-2026",
    "value": 5600630.0
+  },
+  "fts:ocds-h6vhtk-07c155": {
+   "areas": [
+    "cornwall"
+   ],
+   "buyer": "Newquay Town Council",
+   "buyer_code": "UKK30",
+   "buyer_postcode": "TR7 1AF",
+   "buyer_town": "Newquay",
+   "calloff": false,
+   "codes": [
+    "UKK"
+   ],
+   "contact": {
+    "email": "ceo@newquay.gov.uk"
+   },
+   "cpv": [
+    "90600000",
+    "92000000"
+   ],
+   "deadline": "2026-12-16T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "The Council is seeking bids for the undertaking of cleaning, preparation and protective sealing of the concrete surfaces at Newquay Skatepark, Newquay, Cornwall.\nThe purpose of the works is to improve the appearance of the skatepark, remove biological contamination and surface soiling, and provide a protective concrete sealer to enhance durability and reduce future contamination.\nThe Contractor shall allow for all labour, plant, materials, access equipment, traffic/pedestrian management, waste disposal, health and safety measures, and supervision necessary to complete the works.",
+   "end": "2027-01-31",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c155",
+   "lots": [
+    {
+     "end": "2027-01-31",
+     "max_end": "",
+     "sme": true,
+     "start": "2027-01-11",
+     "title": "",
+     "value": 7000.0
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "https://newquay.gov.uk/opportunities/procurement-opportunities/",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "Cleaning and Sealing of Concrete Waves Skatepark",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-01-11",
+   "status": "open",
+   "title": "Cleaning and Sealing of Concrete Waves Skatepark",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T13:57:23Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110598-2026",
+   "value": 7000.0
+  },
+  "fts:ocds-h6vhtk-07c17f": {
+   "areas": [
+    "wiltshire"
+   ],
+   "buyer": "Central Swindon North Parish Council",
+   "buyer_code": "UKK14",
+   "buyer_postcode": "SN2 2QJ",
+   "buyer_town": "Swindon",
+   "calloff": false,
+   "codes": [
+    "UKK1"
+   ],
+   "contact": {
+    "email": "procurement@centralswindonnorth-pc.gov.uk",
+    "name": "Andrew Briggs"
+   },
+   "cpv": [
+    "77312000",
+    "77313000",
+    "77314000",
+    "90610000",
+    "90690000"
+   ],
+   "deadline": "2027-01-29T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Central Swindon North Parish Council is seeking suitably qualified and experienced contractors to tender for the provision of Grounds Maintenance and Street Cleansing services across the Council's operational estate and those public-realm areas for which it is responsible.\nThe procurement comprises two alternative Lots.\nLot 1 - Integrated Grounds Maintenance and Street Cleansing: full external delivery of the Council's Grounds Maintenance and Street Cleansing requirements under a single integrated contract.\nLot 2 - Standalone Grounds Maintenance: external delivery of the Council's Grounds Maintenance requirements only, with Street Cleansing delivered separately by the Council.\nSuppliers may tender for either or both Lots. Each Lot will be evaluated and ranked independently. The Council will award a maximum of one Lot and will not award both Lots.\nThe services include, as applicable to the relevant Lot, grass cutting and maintenance, sports pitches and specialist turf, shrubs and hedges, hard-surface weed control, allotment communal areas, play-area inspections, vegetation management, litter and detritus removal, litter-bin servicing, mechanical sweeping, leaf clearance, shopping-precinct cleansing, back-alley, backland and public-rights-of-way cleansing, routine vegetation clearance, fly-tipping response and specialist cleansing.\nThe Contract also includes digital contract-management, reporting and customer-service requirements, including Council access to live or near-live operational information and a resident-facing service-information facility.\nThe initial Contract term will run from 1 July 2027 to 30 June 2032. The Council may extend the Contract for up to two further years, to a maximum end date of 30 June 2034.\nFor procurement valuation and notice purposes, the estimated values of the two alternative Lots are aggregated. The aggregate figure does not represent the value of a single Contract or the Council's anticipated expenditure because Lot 1 and Lot 2 are mutually exclusive and the Council will award a maximum of one Lot.\nA voluntary Supplementary Street Cleansing Pricing Schedule is included for market-benchmarking purposes only. It is not a separate Lot, is not independently awardable and does not form part of the Tender evaluation.",
+   "end": "2032-06-30",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c17f",
+   "lots": [
+    {
+     "end": "2032-06-30",
+     "max_end": "2034-06-30",
+     "sme": true,
+     "start": "2027-07-01",
+     "title": "Integrated Grounds Maintenance and Street Cleansing",
+     "value": 6650000.0
+    },
+    {
+     "end": "2032-06-30",
+     "max_end": "2034-06-30",
+     "sme": true,
+     "start": "2027-07-01",
+     "title": "Standalone Grounds Maintenance",
+     "value": 4550000.0
+    }
+   ],
+   "max_end": "2034-06-30",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://centralswindonnorth-pc.gov.uk/",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "Grounds Maintenance and Street Cleansing Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-07-01",
+   "status": "open",
+   "title": "Grounds Maintenance and Street Cleansing Services",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T15:16:11Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110678-2026",
+   "value": 11200000.0
   }
  }
 }
