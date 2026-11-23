@@ -1,0 +1,584 @@
+{
+ "date": "2026-11-23",
+ "title": "30 new public tenders this week",
+ "count": 30,
+ "best": 7,
+ "parish": 5,
+ "built": "2026-11-23",
+ "entries": [
+  {
+   "title": "Ysgol Y Deri Cleaning Contract",
+   "buyer": "Vale of Glamorgan Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108527-2026",
+   "areas": [
+    "south-wales"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£1.69m over 2 years (about £843k a year)",
+   "deadline": "Mon 23 Nov, 12:00"
+  },
+  {
+   "title": "DPS1 1428 - Tree Work",
+   "buyer": "London Borough of Haringey",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/dece663c-109e-4ad2-a077-5572237c4f15",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "list-only",
+   "fit": "low",
+   "value": "£90,000 over 1 month",
+   "deadline": "Tue 24 Nov, 14:31"
+  },
+  {
+   "title": "DPS1 1442 - Downhills Park Tree Works",
+   "buyer": "London Borough of Haringey",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/b1891b50-4683-41f2-8f74-ebbebe0e4e42",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "list-only",
+   "fit": "low",
+   "value": "£90,000",
+   "deadline": "Tue 24 Nov, 16:04"
+  },
+  {
+   "title": "Norwich City Verges Mowing 2026",
+   "buyer": "Norse Eastern Ltd",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109059-2026",
+   "areas": [
+    "norfolk"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£525,000 over 1 year",
+   "deadline": "Wed 25 Nov, 11:00"
+  },
+  {
+   "title": "SHWD Cleaning",
+   "buyer": "South Hams District Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109889-2026",
+   "areas": [
+    "devon"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£150,000 over 2 years (about £75k a year)",
+   "deadline": "Wed 25 Nov, 12:00"
+  },
+  {
+   "title": "Contracted Cleaning Services",
+   "buyer": "The Royal Central School of Speech and Drama",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109568-2026",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£2m over 3 years (about £667k a year)",
+   "deadline": "Fri 27 Nov, 18:00"
+  },
+  {
+   "title": "Griffin Park Bowls Green",
+   "buyer": "Porthcawl Town Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108441-2026",
+   "areas": [
+    "south-wales"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£70,000 over 1 year",
+   "deadline": "Wed 2 Dec, 12:00"
+  },
+  {
+   "title": "Procurement for Communal Cleaning and Grounds Maintenance in Northeast England (Habinteg)(Split into Lots)",
+   "buyer": "Habinteg Housing Association Limited",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109415-2026",
+   "areas": [
+    "west-yorkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning",
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "4 lots, from £57,019 to £145,510 over 3 years (smallest lot about £19k a year)",
+   "deadline": "Wed 2 Dec, 12:00"
+  },
+  {
+   "title": "Arboricultural - Tree Works",
+   "buyer": "Orbit Group Limited",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108485-2026",
+   "areas": [],
+   "regions": [],
+   "uk_wide": true,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "framework",
+   "fit": "medium",
+   "value": "3 lots, from £1.23m to £3.58m over 4 years (smallest lot about £307k a year)",
+   "deadline": "Fri 11 Dec, 12:00"
+  },
+  {
+   "title": "DAERA - Forest Service - Tree Planting Services",
+   "buyer": "DAERA - Forest Service",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108436-2026",
+   "areas": [
+    "northern-ireland"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance",
+    "tree-work"
+   ],
+   "section": "framework",
+   "fit": "medium",
+   "value": "3 lots, from £500,000 to £1.6m over 2 years (smallest lot about £250k a year)",
+   "deadline": "Fri 11 Dec, 15:00"
+  },
+  {
+   "title": "St Peter’s Catholic Primary School Cleaning and Caretaking",
+   "buyer": "St Peter's Catholic Primary School",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108421-2026",
+   "areas": [
+    "essex"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£450,000 over 3 years (about £150k a year)",
+   "deadline": "Mon 14 Dec, 12:00"
+  },
+  {
+   "title": "Communal Cleaning Service for blocks and sheltered sites",
+   "buyer": "Acis Group Limited",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108644-2026",
+   "areas": [
+    "lincolnshire",
+    "south-yorkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "3 lots, from £175,000 to £700,000 over 3 years (smallest lot about £58k a year)",
+   "deadline": "Mon 14 Dec, 14:00"
+  },
+  {
+   "title": "Arboricultural Works for Stroud District Council",
+   "buyer": "Stroud District Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110248-2026",
+   "areas": [
+    "gloucestershire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work",
+    "grounds-maintenance"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£283,333 over 3 years (about £95k a year)",
+   "deadline": "Tue 15 Dec, 15:00"
+  },
+  {
+   "title": "Window Cleaning Services across Durham County Council Premises",
+   "buyer": "Durham County Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109089-2026",
+   "areas": [
+    "county-durham"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "window-cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£400,000 over 2 years (about £200k a year)",
+   "deadline": "Wed 16 Dec, 10:00"
+  },
+  {
+   "title": "Landscape Maintenance and Common Close Cleaning Services Contract 2027-2029",
+   "buyer": "Southside Housing Association Ltd",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026",
+   "areas": [
+    "glasgow-and-lanarkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning",
+    "grounds-maintenance"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£1.17m",
+   "deadline": "Wed 16 Dec, 12:00"
+  },
+  {
+   "title": "STAR Housing – Cleaning Services",
+   "buyer": "Shropshire Towns and Rural Housing Limited",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108481-2026",
+   "areas": [
+    "shropshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£1.25m over 3 years (about £417k a year)",
+   "deadline": "Wed 16 Dec, 12:00"
+  },
+  {
+   "title": "Birmingham Metropolitan College Tender for Cleaning Services Contract",
+   "buyer": "BMet College",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110264-2026",
+   "areas": [
+    "west-midlands"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£2.16m over 3 years (about £720k a year)",
+   "deadline": "Thu 17 Dec, 10:00"
+  },
+  {
+   "title": "Communal gardening and grounds maintenance services",
+   "buyer": "East Midlands Housing Group",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110126-2026",
+   "areas": [
+    "leicestershire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£800,000 over 4 years (about £200k a year)",
+   "deadline": "Fri 18 Dec, 12:00"
+  },
+  {
+   "title": "Hopwood Hall College - Provision of Grounds Maintenance Services",
+   "buyer": "Hopwood Hall College",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110140-2026",
+   "areas": [
+    "greater-manchester"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£425,000 over 3 years (about £142k a year)",
+   "deadline": "Fri 18 Dec, 12:00"
+  },
+  {
+   "title": "Village Maintenance Contract",
+   "buyer": "St Margaret's At Cliffe Parish Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109699-2026",
+   "areas": [
+    "kent"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance",
+    "tree-work"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£135,000 over 3 years (about £45k a year)",
+   "deadline": "Fri 18 Dec, 17:00"
+  },
+  {
+   "title": "Cemetery grounds maintenance",
+   "buyer": "Milborne Port Parish Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110127-2026",
+   "areas": [
+    "somerset"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£6,000 over 1 year",
+   "deadline": "Fri 18 Dec"
+  },
+  {
+   "title": "Kilmarnock Bus Station Cleaning",
+   "buyer": "East Ayrshire Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110216-2026",
+   "areas": [
+    "ayrshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£200,000",
+   "deadline": "Mon 21 Dec, 12:00"
+  },
+  {
+   "title": "Window Cleaning Services",
+   "buyer": "The Swaythling Housing Society Ltd (Trading as Abri)",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109893-2026",
+   "areas": [
+    "hampshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "window-cleaning"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "4 lots, from £450,000 to £2.2m over 3 years (smallest lot about £150k a year)",
+   "deadline": "Mon 21 Dec, 14:00"
+  },
+  {
+   "title": "Coastal Academies Trust - Catering and Cleaning Services",
+   "buyer": "Coastal Academies Trust",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108539-2026",
+   "areas": [
+    "kent"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "2 lots, from £4.49m to £8m over 3 years (smallest lot about £1.5m a year)",
+   "deadline": "Mon 21 Dec, 17:00"
+  },
+  {
+   "title": "Grass Cutting and Grounds Maintenance Contract",
+   "buyer": "Stotfold Town Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108660-2026",
+   "areas": [
+    "bedfordshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£126,000 over 3 years (about £42k a year)",
+   "deadline": "Mon 4 Jan, 12:00"
+  },
+  {
+   "title": "Cemetery and Closed Churchyard Maintenance Contract",
+   "buyer": "Bilton Parish Council",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108420-2026",
+   "areas": [
+    "east-yorkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "best",
+   "fit": "high",
+   "value": "£8,000 over 9 months",
+   "deadline": "Tue 5 Jan"
+  },
+  {
+   "title": "Gully Cleansing",
+   "buyer": "Via East Midlands Limited",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109745-2026",
+   "areas": [],
+   "regions": [
+    "east-midlands"
+   ],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£3.5m over 3 years (about £1.17m a year)",
+   "deadline": "Fri 8 Jan, 11:00"
+  },
+  {
+   "title": "Grounds Maintenance and Winter Services",
+   "buyer": "West Yorkshire Fire and Rescue Authority",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108574-2026",
+   "areas": [
+    "west-yorkshire"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "£400,000 over 3 years (about £144k a year)",
+   "deadline": "Fri 8 Jan, 12:00"
+  },
+  {
+   "title": "THEP Schools Collective Cleaning Tender",
+   "buyer": "Wellington Primary School",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109921-2026",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "cleaning"
+   ],
+   "section": "large",
+   "fit": "low",
+   "value": "£3.87m over 3 years (about £1.29m a year)",
+   "deadline": "Fri 8 Jan, 13:00"
+  },
+  {
+   "title": "Arboriculture Services Contract",
+   "buyer": "Tower Hamlets",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110006-2026",
+   "areas": [
+    "london"
+   ],
+   "regions": [],
+   "uk_wide": false,
+   "trades": [
+    "tree-work"
+   ],
+   "section": "more",
+   "fit": "medium",
+   "value": "not stated",
+   "deadline": ""
+  }
+ ],
+ "areas": {
+  "northumberland": "Northumberland",
+  "tyne-and-wear": "Tyne and Wear",
+  "county-durham": "County Durham",
+  "teesside": "Teesside",
+  "cumbria": "Cumbria",
+  "lancashire": "Lancashire",
+  "greater-manchester": "Greater Manchester",
+  "merseyside": "Merseyside",
+  "cheshire": "Cheshire",
+  "north-yorkshire": "North Yorkshire",
+  "west-yorkshire": "West Yorkshire",
+  "south-yorkshire": "South Yorkshire",
+  "east-yorkshire": "East Yorkshire",
+  "derbyshire": "Derbyshire",
+  "nottinghamshire": "Nottinghamshire",
+  "leicestershire": "Leicestershire and Rutland",
+  "northamptonshire": "Northamptonshire",
+  "lincolnshire": "Lincolnshire",
+  "herefordshire": "Herefordshire",
+  "worcestershire": "Worcestershire",
+  "warwickshire": "Warwickshire",
+  "shropshire": "Shropshire",
+  "staffordshire": "Staffordshire",
+  "west-midlands": "West Midlands",
+  "cambridgeshire": "Cambridgeshire",
+  "norfolk": "Norfolk",
+  "suffolk": "Suffolk",
+  "essex": "Essex",
+  "hertfordshire": "Hertfordshire",
+  "bedfordshire": "Bedfordshire",
+  "london": "London",
+  "kent": "Kent",
+  "east-sussex": "East Sussex",
+  "west-sussex": "West Sussex",
+  "surrey": "Surrey",
+  "hampshire": "Hampshire",
+  "isle-of-wight": "Isle of Wight",
+  "berkshire": "Berkshire",
+  "buckinghamshire": "Buckinghamshire",
+  "oxfordshire": "Oxfordshire",
+  "bristol-and-bath": "Bristol and Bath",
+  "gloucestershire": "Gloucestershire",
+  "wiltshire": "Wiltshire",
+  "somerset": "Somerset",
+  "dorset": "Dorset",
+  "devon": "Devon",
+  "cornwall": "Cornwall",
+  "north-wales": "North Wales",
+  "mid-and-west-wales": "Mid and West Wales",
+  "south-wales": "South Wales",
+  "glasgow-and-lanarkshire": "Glasgow and Lanarkshire",
+  "edinburgh-and-lothians": "Edinburgh and the Lothians",
+  "tayside-fife-and-central": "Tayside, Fife and Central Scotland",
+  "ayrshire": "Ayrshire",
+  "south-of-scotland": "Borders, Dumfries and Galloway",
+  "aberdeen-and-aberdeenshire": "Aberdeen and Aberdeenshire",
+  "highlands-and-islands": "Highlands and Islands",
+  "northern-ireland": "Northern Ireland"
+ }
+}

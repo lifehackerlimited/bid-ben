@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-22",
+ "fetched_to": "2026-11-23",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -12320,6 +12320,283 @@
    "updated": "2026-11-20T15:30:25Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/110264-2026",
    "value": 2158665.0
+  },
+  "fts:ocds-h6vhtk-07c0f4": {
+   "areas": [
+    "london"
+   ],
+   "buyer": "Jewish Free School",
+   "buyer_code": "UKI72",
+   "buyer_postcode": "HA3 9TE",
+   "buyer_town": "Kenton",
+   "calloff": false,
+   "codes": [
+    "UKI72"
+   ],
+   "contact": {
+    "email": "procurement@jfs.brent.sch.uk"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2026-12-16T12:00:00Z",
+   "deadline_kind": "interest",
+   "desc": "The school is seeking to appoint a contract cleaning company to deliver cleaning services to the Jewish Free School.\nThe contractor will be required to provide core cleaning, periodic cleaning and reactive cleaning services.\nWindow Cleaning, Medical Waste and Feminine Hygiene Services are to included in this contract.",
+   "end": "2030-08-31",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c0f4",
+   "lots": [
+    {
+     "end": "2030-08-31",
+     "max_end": "2032-08-31",
+     "sme": true,
+     "start": "2027-09-01",
+     "title": "",
+     "value": 3700000.0
+    }
+   ],
+   "max_end": "2032-08-31",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://bidiful-teamportal.app",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "Cleaning Contract for The Jewish Free School",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-09-01",
+   "status": "open",
+   "title": "Cleaning Contract for The Jewish Free School",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T10:10:51Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110427-2026",
+   "value": 3700000.0
+  },
+  "fts:ocds-h6vhtk-07c0f8": {
+   "areas": [
+    "northern-ireland"
+   ],
+   "buyer": "Choice Housing",
+   "buyer_code": "UKN06",
+   "buyer_postcode": "BT1 4DN",
+   "buyer_town": "Belfast",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "corporate.procurement@choice-housing.org"
+   },
+   "cpv": [
+    "45112700",
+    "45112710",
+    "45112712",
+    "45112713",
+    "77314000"
+   ],
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Choice Housing intends to appoint suitably qualified and experienced supplier to provide grounds maintenance ‘Additional Works’ across its properties throughout Northern Ireland. The full details of the services can be found within the tender documents (they include additional works, landscaping, site upgrades and biodiversity). The Contract is expected to commence on 1 April 2027 for an initial period of 24 months, with the option for Choice to extend for up to five further periods of 12 months. The estimated maximum value over the full 84 month period is £2.34 million excluding VAT. The estimated values and quantities are not guaranteed.",
+   "end": "2029-03-31",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c0f8",
+   "lots": [
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 2340000.0
+    }
+   ],
+   "max_end": "2034-03-31",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "https://etendersni.gov.uk",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "PRN26156 Grounds Maintenance - additional works",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Grounds Maintenance - additional works",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T10:14:54Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110431-2026",
+   "value": 2340000.0
+  },
+  "fts:ocds-h6vhtk-07c0fc": {
+   "areas": [
+    "northern-ireland"
+   ],
+   "buyer": "Choice Housing",
+   "buyer_code": "UKN06",
+   "buyer_postcode": "BT1 4DN",
+   "buyer_town": "Belfast",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "corporate.procurement@choice-housing.org"
+   },
+   "cpv": [
+    "71355000",
+    "77211300",
+    "77211400",
+    "77211500",
+    "77211600",
+    "77231000",
+    "77314000",
+    "77340000"
+   ],
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Choice Housing intends to appoint suitably qualified and experienced supplier to provide Tree surgery works across its properties throughout Northern Ireland. The full details of the services can be found within the tender documents (they include young tree maintenance and full tree surveys). The Contract is expected to commence on 1 April 2027 for an initial period of 24 months, with the option for Choice to extend for up to five further periods of 12 months. The estimated maximum value over the full 84 month period is £1.82 million excluding VAT. The estimated values and quantities are not guaranteed.",
+   "end": "2029-03-31",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c0fc",
+   "lots": [
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 1820000.0
+    }
+   ],
+   "max_end": "2034-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://etendersni.gov.uk/",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "PRN26155 Grounds –Tree surgery",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Grounds –Tree surgery",
+   "trades": [
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T10:22:16Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110439-2026",
+   "value": 1820000.0
+  },
+  "fts:ocds-h6vhtk-07c0fd": {
+   "areas": [
+    "northern-ireland"
+   ],
+   "buyer": "Choice Housing",
+   "buyer_code": "UKN06",
+   "buyer_postcode": "BT1 4DN",
+   "buyer_town": "Belfast",
+   "calloff": false,
+   "codes": [],
+   "contact": {
+    "email": "corporate.procurement@choice-housing.org"
+   },
+   "cpv": [
+    "77314000"
+   ],
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Choice Housing intends to appoint suitably qualified and experienced suppliers to provide grounds maintenance services across its properties throughout Northern Ireland. The full details of the services can be found within the tender documents (they include grass cutting, hedge and shrub maintenance, weed control, maintenance of planted areas, litter removal, visual inspections). The requirement is divided into seven geographical Lots. Suppliers may tender for any one, several or all Lots but will normally be awarded a maximum of four Lots. The Lot allocation order is outlined in the tender Documents. Each Contract is expected to commence on 1 April 2027 for an initial period of 24 months, with the option for Choice to extend for up to five further periods of 12 months. The estimated maximum value across all Lots over the full 84 month period is £4.67 million excluding VAT. The estimated values and quantities are not guaranteed.",
+   "end": "2029-03-31",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c0fd",
+   "lots": [
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Derry City and Strabane, Causeway Coast and Glens, Fermanagh and Omagh, Mid Ulster",
+     "value": 851648.0
+    },
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Belfast, Mid and East Antrim, Antrim and Newtownabbey",
+     "value": 1109269.0
+    },
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Belfast Area 3",
+     "value": 539217.0
+    },
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Ards and North Down, Newry, Mourne and Down",
+     "value": 967449.0
+    },
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Belfast, Armagh City, Banbridge and Craigavon, Lisburn and Castlreagh",
+     "value": 1317589.0
+    },
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Belfast Area 6",
+     "value": 432110.0
+    },
+    {
+     "end": "2029-03-31",
+     "max_end": "2034-03-31",
+     "sme": false,
+     "start": "2027-04-01",
+     "title": "Belfast, Lisburn and Castlereagh",
+     "value": 383348.0
+    }
+   ],
+   "max_end": "2034-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://etendersni.gov.uk",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "PRN26150 Grounds Maintenance Tender",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Grounds Maintenance Tender",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T10:24:06Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110440-2026",
+   "value": 5600630.0
   }
  }
 }
