@@ -10710,6 +10710,64 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/106848-2026",
    "value": 280000.0
   },
+  "fts:ocds-h6vhtk-07b96f": {
+   "areas": [
+    "edinburgh-and-lothians"
+   ],
+   "buyer": "University Of Edinburgh",
+   "buyer_code": "UKM75",
+   "buyer_postcode": "EH1 1HT",
+   "buyer_town": "Edinburgh",
+   "calloff": false,
+   "codes": [
+    "UKM75"
+   ],
+   "contact": {
+    "email": "mritchi7@ed.ac.uk",
+    "telephone": "+44 1316502508"
+   },
+   "cpv": [
+    "77200000"
+   ],
+   "deadline": "2027-01-05T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "The University is looking to contract planting and maintenance for it's 3 woodland creation sites;\nRullion Green – Flotterstone, Pentlands – 30-hectare site\nDrumbrae – Sherrifmuir Road, Bridge of Allan – 430-hectare site\nBarvick Burn Wood – Crieff, Perthshire – 431-hectare site\nThe contract is estimated to begin in February 2027. The University is seeking to contract initial planting, beat-up planting and maintenance for 2 years, with the possibility to extend for 3 years (3 x 12 months).\nPlease note the value stated is indicative only and does not represent a guaranteed level of expenditure.",
+   "end": "",
+   "first_seen": "2026-11-24",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07b96f",
+   "lots": [
+    {
+     "end": "",
+     "max_end": "",
+     "sme": false,
+     "start": "",
+     "title": "",
+     "value": 2000000.0
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.publictendersscotland.publiccontractsscotland.gov.uk",
+   "postcodes": [],
+   "published": "2026-11-24",
+   "raw_title": "Tree Planting and Maintenance",
+   "regions": [],
+   "sme": false,
+   "src": "fts",
+   "start": "",
+   "status": "open",
+   "title": "Tree Planting and Maintenance",
+   "trades": [
+    "grounds-maintenance",
+    "tree-work"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-24T16:19:57Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/111330-2026",
+   "value": 2000000.0
+  },
   "fts:ocds-h6vhtk-07ba1e": {
    "areas": [
     "leicestershire"
