@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-23",
+ "fetched_to": "2026-11-24",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -12674,7 +12674,7 @@
     "UKK"
    ],
    "contact": {
-    "email": "ceo@newquay.gov.uk"
+    "email": "joe@newquay.gov.uk"
    },
    "cpv": [
     "90600000",
@@ -12702,7 +12702,7 @@
    "method_text": "Below threshold - open competition",
    "portal": "https://newquay.gov.uk/opportunities/procurement-opportunities/",
    "postcodes": [],
-   "published": "2026-11-23",
+   "published": "2026-11-24",
    "raw_title": "Cleaning and Sealing of Concrete Waves Skatepark",
    "regions": [],
    "sme": true,
@@ -12714,8 +12714,8 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-11-23T13:57:23Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/110598-2026",
+   "updated": "2026-11-24T10:07:46Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110946-2026",
    "value": 7000.0
   },
   "fts:ocds-h6vhtk-07c17f": {
@@ -12786,6 +12786,122 @@
    "updated": "2026-11-23T15:16:11Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/110678-2026",
    "value": 11200000.0
+  },
+  "fts:ocds-h6vhtk-07c18d": {
+   "areas": [
+    "leicestershire"
+   ],
+   "buyer": "Loughborough University",
+   "buyer_code": "UKF22",
+   "buyer_postcode": "LE11 3TU",
+   "buyer_town": "Loughborough",
+   "calloff": false,
+   "codes": [
+    "UKF2"
+   ],
+   "contact": {
+    "email": "H.L.Deebank@lboro.ac.uk",
+    "name": "Heidi Deebank",
+    "telephone": "01509 222015"
+   },
+   "cpv": [
+    "90911000",
+    "90911300"
+   ],
+   "deadline": "2026-12-22T13:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "The provision of window cleaning services across the Loughborough campus. This contract will be delivered across a diverse university estate, including residential accommodation, academic buildings, commercial facilities, bus shelters and sports venues.\nSite visits will be held on 1st, 3rd and 7th December for which details will be be sent through the Delta e-sourcing portal.\nFor more information about this opportunity, please visit the eSourcing portal at:\nhttps://www.delta-esourcing.com/tenders/UK-UK-Loughborough:-Accommodation%2C-building-and-window-cleaning-services./8S74MZK344\nTo respond to this opportunity, please click here:\nhttps://www.delta-esourcing.com/respond/8S74MZK344",
+   "end": "2029-01-31",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c18d",
+   "lots": [
+    {
+     "end": "2029-01-31",
+     "max_end": "2032-01-31",
+     "sme": true,
+     "start": "2027-02-01",
+     "title": "",
+     "value": 440000.0
+    }
+   ],
+   "max_end": "2032-01-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.delta-esourcing.com/respond/8S74MZK344",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "LU01066 The Provision of Window Cleaning Services",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-02-01",
+   "status": "open",
+   "title": "Window Cleaning Services",
+   "trades": [
+    "window-cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T15:26:44Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110693-2026",
+   "value": 440000.0
+  },
+  "fts:ocds-h6vhtk-07c1c8": {
+   "areas": [
+    "dorset"
+   ],
+   "buyer": "Swanage Town Council",
+   "buyer_code": "UKK25",
+   "buyer_postcode": "BH19 2NZ",
+   "buyer_town": "Swanage",
+   "calloff": false,
+   "codes": [
+    "UKK25"
+   ],
+   "contact": {
+    "email": "admin@swanage.gov.uk",
+    "name": "Gail Percival"
+   },
+   "cpv": [
+    "90911000"
+   ],
+   "deadline": "2027-01-08T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "The Council invites response to this Invitation to Tender (ITT) from suitably qualified suppliers (\"Suppliers\") for the provision of cleaning services to the Council's public toilets.\nThe key objective of the Tender is to appoint a competent supplier to provide high-quality cleaning services to the Council's public toilets to provide a positive image of the area, both for the local community as well as visitors.\nThe public toilets in Swanage provide a vital community asset to an area that has a wide range of community-related attractions and events incorporating sporting, leisure, heritage and cultural activities in addition to its reputation as the 'Queen of English seaside towns'.\nThe current contract commenced on 4 April 2022.\nThe Tender is for the delivery of the Public Toilet cleaning contract for the eleven (11) facilities operated by Council.\nFull details around the Tender can be found in the accompanying documentation attached to this notice.",
+   "end": "2030-04-03",
+   "first_seen": "2026-11-23",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c1c8",
+   "lots": [
+    {
+     "end": "2030-04-03",
+     "max_end": "2032-04-03",
+     "sme": true,
+     "start": "2027-04-04",
+     "title": "",
+     "value": 475000.0
+    }
+   ],
+   "max_end": "2032-04-03",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-23",
+   "raw_title": "Public Conveniences Cleaning and Securing Services Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-04",
+   "status": "open",
+   "title": "Public Conveniences Cleaning and Securing Services Contract",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-23T17:21:13Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110807-2026",
+   "value": 475000.0
   }
  }
 }
