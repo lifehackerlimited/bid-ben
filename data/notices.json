@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-24",
+ "fetched_to": "2026-11-25",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -12960,6 +12960,130 @@
    "updated": "2026-11-23T17:21:13Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/110807-2026",
    "value": 475000.0
+  },
+  "fts:ocds-h6vhtk-07c33a": {
+   "areas": [
+    "cambridgeshire"
+   ],
+   "buyer": "Little Downham Parish Council",
+   "buyer_code": "UKH12",
+   "buyer_postcode": "CB6 2UE",
+   "buyer_town": "Little Downham",
+   "calloff": false,
+   "codes": [
+    "UKC",
+    "UKD",
+    "UKE",
+    "UKF",
+    "UKG",
+    "UKH",
+    "UKI",
+    "UKJ",
+    "UKK"
+   ],
+   "contact": {
+    "email": "clerk@littledownhamparishcouncil.gov.uk",
+    "name": "Amy",
+    "telephone": "01353 649499"
+   },
+   "cpv": [
+    "16000000",
+    "45000000",
+    "50000000"
+   ],
+   "deadline": "2026-12-21T23:59:59Z",
+   "deadline_kind": "bid",
+   "desc": "Little Downham Parish Council is looking for a contractor to carry out a three year contract to cut Village Grass, verges, flailing ditches and hedge cutting.",
+   "end": "2029-11-01",
+   "first_seen": "2026-11-25",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c33a",
+   "lots": [
+    {
+     "end": "2029-11-01",
+     "max_end": "",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "",
+     "value": 36000.0
+    }
+   ],
+   "max_end": "",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-25",
+   "raw_title": "Village- Grass, hedge and Flailing Maintenance Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-01",
+   "status": "open",
+   "title": "Village- Grass, hedge and Flailing Maintenance Contract",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-25T11:01:21Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/111504-2026",
+   "value": 36000.0
+  },
+  "fts:ocds-h6vhtk-07c367": {
+   "areas": [],
+   "buyer": "Synchronicity Care Ltd",
+   "buyer_code": "UKC13",
+   "buyer_postcode": "DL36HX",
+   "buyer_town": "Darlington",
+   "calloff": false,
+   "codes": [
+    "UKC"
+   ],
+   "contact": {
+    "email": "cddft.sclprocurement@nhs.net"
+   },
+   "cpv": [
+    "90911200"
+   ],
+   "deadline": "2027-01-11T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Synchronicity Care Ltd require a supplier to provide a comprehensive office cleaning service to maintain a clean, safe, hygienic, and presentable environment at all designated premises.\nThe service shall include, but not be limited to:\n• Daily office cleaning\n• Washroom cleaning and replenishment\n• Kitchen and welfare area cleaning\n• Meeting room cleaning\n• Internal glazing\n• Waste collection and disposal\n• Periodic deep cleaning services\nThis will be required at: The Whitehouse, Peterlee, SR8 2RU.",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-25",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c367",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 120000.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://atamis-1928--prospend.vf.force.com/apex/CS_ContractPage?filters=&page=1&Preview=Yes&searchStr=&SearchType=Projects&sortStr=Alphabetical&uid=a07Pz000027tlKkIAI&sfdcIFrameOrigin=https://atamis-1928.lightning.force.com",
+   "postcodes": [],
+   "published": "2026-11-25",
+   "raw_title": "Provision of Cleaning Contract for the Whitehouse",
+   "regions": [
+    "north-east"
+   ],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Cleaning Contract for the Whitehouse",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-25T11:58:18Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/111575-2026",
+   "value": 120000.0
   }
  }
 }
