@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-25",
+ "fetched_to": "2026-11-26",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -2289,7 +2289,7 @@
    "cpv": [
     "90922000"
    ],
-   "deadline": "2026-12-07T12:00:00+00:00",
+   "deadline": "2026-12-14T12:00:00+00:00",
    "deadline_kind": "bid",
    "desc": "YHG are looking to appoint suitably qualified providers to deliver pest control services across a portfolio of YHG properties throughout the North West region.\nThis tender has been divided into the 5 geographical Lots: Lot 1 – Cheshire, Lot 2 – Lancashire, Lot 3 – Manchester, Lot 4 – Merseyside, Lot 5 – Wigan & Warrington.\nThe annual Contract Value for each individual Lot is expressed as a range showing the contract values for the routine bait box schedule of works as well as the value including potential ad hoc works and services, which are not guaranteed but are envisioned to be applicable to each Lot.\nLot 1 – Cheshire (£22,500.00 - £31,500.00)\nLot 2 – Lancashire (£18,000.00 - £25,500.00)\nLot 3 – Manchester (£29,000.00 - £40,500.00)\nLot 4 – Merseyside (£36,500.00 - £51,000.00)\nLot 5 – Wigan & Warrington (£29,000.00 - £40,500.00)\nTenderers can apply for up to a maximum of three (3) Lots. The maximum number of Lots able to be awarded to a single supplier will be three (3) Lots. Tenderers may apply for a minimum of 1 Lot and a maximum of 3 Lots. For the avoidance of doubt this means YHG will appoint a minimum of 2 suppliers or a maximum of 5 suppliers for the performance of these services, including any number in between.\nThe contract will be awarded for an initial period of two years, with the option to extend for further periods of 12 months each on 2 occasions, subject to satisfactory performance and business requirements. Therefore, the maximum contract term will be four years.",
    "end": "2029-03-31",
@@ -2343,7 +2343,7 @@
    "method_text": "Open procedure",
    "portal": "https://www.mytenders.co.uk/Tenders",
    "postcodes": [],
-   "published": "2026-11-11",
+   "published": "2026-11-26",
    "raw_title": "PRO0661 YHG Pest Control Services",
    "regions": [],
    "sme": true,
@@ -2355,8 +2355,8 @@
     "pest-control"
    ],
    "uk_wide": false,
-   "updated": "2026-11-11T16:47:56Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/107288-2026",
+   "updated": "2026-11-26T12:34:55Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112101-2026",
    "value": 756000.0
   },
   "fts:ocds-h6vhtk-05d0e4": {
@@ -2744,7 +2744,7 @@
     "90919100",
     "90919200"
    ],
-   "deadline": "2026-12-01T12:00:00+00:00",
+   "deadline": "2026-12-15T12:00:00+00:00",
    "deadline_kind": "bid",
    "desc": "Milton Keynes City Council are currently out to tender for the provision of Cleaning Services.\nSuppliers that would like to take part in this tender process are invited to \"Express Interest\" upon which they will be given access to the full tender documentation through this E Tendering system https://in-tendhost.co.uk/milton-keynes/\nSuppliers will be notified by email and the tender documents can be accessed from the \"My Tenders\" area of this website be electing the \"view details\" button for this tender\nDeadline for submissions for this tender will be 12 Noon 1st December 2026.",
    "end": "2030-08-31",
@@ -2755,7 +2755,7 @@
     {
      "end": "2030-08-31",
      "max_end": "2032-08-31",
-     "sme": false,
+     "sme": true,
      "start": "2027-09-01",
      "title": "",
      "value": 4500000.0
@@ -2766,10 +2766,10 @@
    "method_text": "Open procedure",
    "portal": "https://in-tendhost.co.uk/milton-keynes/",
    "postcodes": [],
-   "published": "2026-10-07",
+   "published": "2026-11-26",
    "raw_title": "Cleaning Services for Milton Keynes City Council",
    "regions": [],
-   "sme": false,
+   "sme": true,
    "src": "fts",
    "start": "2027-09-01",
    "status": "open",
@@ -2778,8 +2778,8 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-10-07T11:46:47+01:00",
-   "url": "https://www.find-tender.service.gov.uk/Notice/094652-2026",
+   "updated": "2026-11-26T08:14:16Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/111897-2026",
    "value": 4500000.0
   },
   "fts:ocds-h6vhtk-06bc37": {
@@ -6291,6 +6291,7 @@
    "deadline_kind": "bid",
    "desc": "West Bedlington Town Council invites tenders from suitably experienced suppliers for the provision of seasonal planting, routine inspection, cleansing, watering and maintenance of identified flower beds, planters and associated planted areas within the West Bedlington Town Council area.\n1. Purpose of the Tender\nThe purpose of this tender is to appoint a competent supplier(s) to deliver the services currently described in the existing service level agreement, including the preparation, planting, inspection, cleansing, establishment watering and ongoing maintenance of flower beds and planters across West Bedlington. The Council is seeking proposals that provide a reliable, good-quality and cost-effective service, with clear arrangements for communication, reporting, health and safety, environmental practice and service monitoring.\n2. Scope of Services\nThe supplier will be required to deliver a complete seasonal floral planting and maintenance service for the flower beds, tubs and planters identified in the attached schedule. The service shall include, as a minimum, stripping out and preparing beds before planting, supplying suitable plants and materials, planting summer and winter schemes, watering for establishment, removing litter, detritus and weeds in and immediately surrounding the beds, inspecting sites, reporting issues, and carrying out agreed remedial work where instructed by the Council. Suppliers can bid for flower beds only or planters only or both flower beds and planters.\n3. Service Locations and Planting Schedule\nThe service locations and indicative planting requirements are set out in the existing Flower Bed Locations table within this document. Tenderers must price for all listed locations unless invited by the Council to submit prices for specific lots or alternative options. The Council may amend planting designs, quantities or locations during the contract term by written agreement.\n4. Required Service Standards\n• All identified flower beds shall be visited at least twice per month during the growing season, unless otherwise agreed in writing.\n• Sites shall be left clean, tidy and safe following each visit.\n• Weeds, litter and detritus shall be removed from beds and immediately surrounding areas.\n• Beds shall be prepared before summer and winter planting, normally during May/June and September/October or as otherwise agreed with the Council",
    "end": "2030-03-31",
+   "ended_on": "2026-11-26",
    "first_seen": "2026-10-12",
    "framework": false,
    "id": "fts:ocds-h6vhtk-0785f1",
@@ -6315,7 +6316,7 @@
    "sme": true,
    "src": "fts",
    "start": "2027-04-01",
-   "status": "open",
+   "status": "awarded",
    "title": "Planting and Maintenance of Flower Beds",
    "trades": [
     "grounds-maintenance"
@@ -8740,7 +8741,7 @@
    "method_text": "Competitive flexible procedure",
    "portal": "",
    "postcodes": [],
-   "published": "2026-10-26",
+   "published": "2026-11-25",
    "raw_title": "Cytundeb Glanhau 2027-2030 Cleaning Contract",
    "regions": [],
    "sme": true,
@@ -8752,8 +8753,8 @@
     "cleaning"
    ],
    "uk_wide": false,
-   "updated": "2026-10-26T12:26:34Z",
-   "url": "https://www.find-tender.service.gov.uk/Notice/100971-2026",
+   "updated": "2026-11-25T15:06:19Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/111741-2026",
    "value": 600000.0
   },
   "fts:ocds-h6vhtk-079028": {
@@ -13084,6 +13085,62 @@
    "updated": "2026-11-25T11:58:18Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/111575-2026",
    "value": 120000.0
+  },
+  "fts:ocds-h6vhtk-07c460": {
+   "areas": [
+    "dorset"
+   ],
+   "buyer": "St Edward’s School (RM&C)",
+   "buyer_code": "UKK24",
+   "buyer_postcode": "BH15 3HY",
+   "buyer_town": "Poole",
+   "calloff": false,
+   "codes": [
+    "UKK24"
+   ],
+   "contact": {
+    "email": "thayter@st-edwards.poole.sch.uk"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2027-01-04T13:00:00+00:00",
+   "deadline_kind": "interest",
+   "desc": "St Edward's RC/CofE School is located in Poole, Dorset and is putting its cleaning contract out to tender with a contract start date of 1st April 2027.",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-26",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c460",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": null
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "selective",
+   "method_text": "Competitive flexible procedure",
+   "portal": "https://www.mytenders.co.uk",
+   "postcodes": [],
+   "published": "2026-11-26",
+   "raw_title": "St Edward's RC/CofE School Cleaning Tender",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "St Edward's RC/CofE School Cleaning Tender",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-26T10:37:35Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/111995-2026",
+   "value": null
   }
  }
 }
