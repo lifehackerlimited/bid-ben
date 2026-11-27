@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-26",
+ "fetched_to": "2026-11-27",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -3591,6 +3591,120 @@
    "updated": "2026-10-20T14:11:47+01:00",
    "url": "https://www.find-tender.service.gov.uk/Notice/099039-2026",
    "value": 300000.0
+  },
+  "fts:ocds-h6vhtk-06f519": {
+   "areas": [
+    "mid-and-west-wales"
+   ],
+   "buyer": "Hywel Dda University Health Board",
+   "buyer_code": "UKL14",
+   "buyer_postcode": "SA31 3BT",
+   "buyer_town": "Carmarthen",
+   "calloff": false,
+   "codes": [
+    "UKL14",
+    "UKL18"
+   ],
+   "contact": {
+    "email": "sara.pell@wales.nhs.uk",
+    "name": "Sara Pell"
+   },
+   "cpv": [
+    "90922000"
+   ],
+   "deadline": "2027-01-14T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Hywel Dda University Health Board (HDUHB) and Swansea Bay University Health Board (SBUHB) are looking for a Provider to deliver integrated pest management services across a range of healthcare sites.\nThe contract includes locations such as:\nAcute hospitals\nCommunity hospitals\nMental health units\nCommunity clinics\nKitchens and food preparation areas\nWaste storage areas\nPlant rooms\nExternal grounds\nOther specialist or high-risk areas\nA full list of sites will be provided as part of the tender documentation; however, the map below provides a high-level overview of the locations by county. Note, Carmarthen, Ceredigion, and Pembrokeshire fall within HDUHB’s boundaries, whereas Swansea and Neath Port Talbot fall within SBUHB’s boundaries.",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-26",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-06f519",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Carmarthenshire East",
+     "value": 96583.19
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Carmarthenshire West",
+     "value": 184506.95
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Pembrokeshire South",
+     "value": 7391.46
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Pembrokeshire North",
+     "value": 70263.58
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Ceredigion South",
+     "value": 128.8
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Ceredigion North",
+     "value": 84450.99
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Swansea",
+     "value": 152057.04
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Neath Port Talbot",
+     "value": 7118.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://etenderwales.ukp.app.jaggaer.com/home.html",
+   "postcodes": [],
+   "published": "2026-11-26",
+   "raw_title": "REGIONAL INTEGRATED PEST MANAGEMENT SERVICE FOR HYWEL DDA UNIVERSITY HEALTH BOARD AND SWANSEA BAY UNIVERSITY HEALTH BOARD",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Regional Integrated Pest Management Service For Hywel Dda University Health Board And Swansea Bay University Health Board",
+   "trades": [
+    "pest-control"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-26T16:58:26Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112314-2026",
+   "value": 602500.01
   },
   "fts:ocds-h6vhtk-06f6ad": {
    "areas": [
@@ -9432,6 +9546,7 @@
    "deadline_kind": "bid",
    "desc": "Wirral Council's Leisure Services are responsible for the management of 6 leisure centres, 1 Football Community hub, 2 municipal golf courses and a Water sports centre providing a range of sports and leisure facilities to the residents and visitors to the Borough.\nOf the 6 Leisure centres, 5 have outside sport areas consisting of 4 11-aside 4G football pitches and 14 short sided 3G caged football pitches. All of which are well played on and require maintenance enabling Wirral Leisure Services to execute the play pitch strategy set by the Football Foundation (FA).",
    "end": "2029-01-31",
+   "ended_on": "2026-11-27",
    "first_seen": "2026-11-02",
    "framework": false,
    "id": "fts:ocds-h6vhtk-07958a",
@@ -9456,7 +9571,7 @@
    "sme": true,
    "src": "fts",
    "start": "2027-02-01",
-   "status": "open",
+   "status": "cancelled",
    "title": "Leisure AGP maintenance",
    "trades": [
     "grounds-maintenance"
@@ -11066,6 +11181,79 @@
    "updated": "2026-11-12T15:22:26Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/107666-2026",
    "value": 1163250.0
+  },
+  "fts:ocds-h6vhtk-07bb1e": {
+   "areas": [
+    "north-yorkshire"
+   ],
+   "buyer": "Northern Star Academies Trust",
+   "buyer_code": "UKE22",
+   "buyer_postcode": "BD23 1QN",
+   "buyer_town": "Skipton",
+   "calloff": false,
+   "codes": [
+    "UKE22",
+    "UKE41"
+   ],
+   "contact": {
+    "email": "info@nsat.org.uk"
+   },
+   "cpv": [
+    "90919300"
+   ],
+   "deadline": "2027-01-04T15:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "The Northern Star Academies Trust have decided to tender their trust wide cleaning services contract to explore best value in contracted services.\nThe successful contractor (s) will be responsible for the management of TUPE for the existing staff, day to day cleaning services across the schools, management of absence and scheduling, annual deep clean programme, provision of MI and KPI's.\nThe contract will be tendered in three geographical lots, contractors may bid for a single or multiple lots. The trust are open to appointing up to 3 contractors should this be scored as the best value approach.\nAll but 2 schools (New Park Primary Academy & Willow Tree Community Primary Academy) are currently in-house.\nLot 1- City Hub\n• Byron Primary School\n• Lapage Primary School and Nursery\n• Meadow Bank Community School\nLot 2- Keighley & Skipton Hub\n• Denholme Primary School\n• Eastwood Community School\n• Greatwood Community Primary and Nursery School\n• Holycroft Primary School\n• Parkwood Primary School\n• Skipton Girls High School\n• Victoria Primary School\nLot 3-Harrogate Hub\n• Harrogate High School\n• Hookstone Chase Primary School\n• New Park Primary Academy\n• Starbeck Primary School\n• Willow Tree Community Primary Academy\nSite measurements:\nLot 1- City Hub | Total m2\nByron Primary School | 3.388.04m2\nLapage Primary School and Nursery | 3,3610.10 m2\nMeadow Bank Community School | 1,800.51m2\nLot 2- Keighley & Skipton Hub | Total m2\nDenholme Primary School | 1841 m2\nEastwood Community School | 2047.90 m2\nGreatwood Community Primary and Nursery School | 1745.5 m2\nHolycroft Primary School | 2795.32 m2\nParkwood Primary School | 1643 m2\nSkipton Girls High School | 6867.37 m2\nVictoria Primary School | 1961 m2\nLot 3-Harrogate Hub | Total m2\nHarrogate High School | 7070 m2\nHookstone Chase Primary School | 1848.2 m2\nNew Park Primary Academy | KS1- 758.34m2 KS2-562.75m2 Community Room 76.52m2 Total 1397.62 m2\nStarbeck Primary School | 1594.3m2\nWillow Tree Community Primary Academy | 4185 m2",
+   "end": "2030-03-31",
+   "first_seen": "2026-11-27",
+   "framework": true,
+   "id": "fts:ocds-h6vhtk-07bb1e",
+   "lots": [
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "City Hub",
+     "value": 1500000.0
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Keighley & Skipton Hub",
+     "value": 2000000.0
+    },
+    {
+     "end": "2030-03-31",
+     "max_end": "2032-03-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "Harrogate Hub",
+     "value": 1500000.0
+    }
+   ],
+   "max_end": "2032-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "",
+   "postcodes": [],
+   "published": "2026-11-27",
+   "raw_title": "Invitation to Tender for the Cleaning Services Contract at Northern Star Academies Trust",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Cleaning Services Contract at Northern Star Academies Trust",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-27T11:04:40Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112487-2026",
+   "value": 5000000.0
   },
   "fts:ocds-h6vhtk-07bbcd": {
    "areas": [
@@ -12962,6 +13150,66 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/110807-2026",
    "value": 475000.0
   },
+  "fts:ocds-h6vhtk-07c2b5": {
+   "areas": [
+    "wiltshire"
+   ],
+   "buyer": "Trowbridge Town Council",
+   "buyer_code": "UKK15",
+   "buyer_postcode": "BA14 8AH",
+   "buyer_town": "Trowbridge",
+   "calloff": false,
+   "codes": [
+    "UKK"
+   ],
+   "contact": {
+    "email": "stuart.legg@trowbridge.gov.uk",
+    "name": "Stuart Legg",
+    "telephone": "+441225765072"
+   },
+   "cpv": [
+    "45112410",
+    "77314000",
+    "90611000"
+   ],
+   "deadline": "2027-01-15T12:00:00+00:00",
+   "deadline_kind": "bid",
+   "desc": "Trowbridge Town Council invites tenders for a single contract covering grounds maintenance, street cleansing and cemetery operations across the town.",
+   "end": "2032-04-30",
+   "first_seen": "2026-11-27",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c2b5",
+   "lots": [
+    {
+     "end": "2032-04-30",
+     "max_end": "2036-04-30",
+     "sme": true,
+     "start": "2027-05-01",
+     "title": "",
+     "value": 6500000.0
+    }
+   ],
+   "max_end": "2036-04-30",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://www.mytenders.co.uk/",
+   "postcodes": [],
+   "published": "2026-11-27",
+   "raw_title": "Trowbridge Town Council Grounds Maintenance and Street Cleansing",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-05-01",
+   "status": "open",
+   "title": "Trowbridge Town Council Grounds Maintenance and Street Cleansing",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-27T13:46:08Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112617-2026",
+   "value": 6500000.0
+  },
   "fts:ocds-h6vhtk-07c33a": {
    "areas": [
     "cambridgeshire"
@@ -13141,6 +13389,128 @@
    "updated": "2026-11-26T10:37:35Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/111995-2026",
    "value": null
+  },
+  "fts:ocds-h6vhtk-07c4df": {
+   "areas": [
+    "worcestershire"
+   ],
+   "buyer": "Wychavon District Council",
+   "buyer_code": "UKG12",
+   "buyer_postcode": "WR10 1PT",
+   "buyer_town": "Pershore",
+   "calloff": false,
+   "codes": [
+    "UKG12"
+   ],
+   "contact": {
+    "email": "procurement@wychavon.gov.uk"
+   },
+   "cpv": [
+    "77310000"
+   ],
+   "deadline": "2026-12-22T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Wychavon District Council is inviting quotes from suitably qualified contractors for the maintenance of the public spaces and verges in the Wychavon District.\nThe Contractor will provide a safe, reliable, cost-effective and environmentally responsible service that maintains public open spaces, landscaped areas and green assets to a consistently high standard throughout the contract period.\nThe service shall include planned, reactive and seasonal operations associated with grass cutting, shrub maintenance, hedge maintenance, watercourse maintenance, minor tree work from ground level, meadow and wildflower areas, rough grass cutting, seeding and turfing, planting works, bulb planting and other soft landscaping as well as green waste composting.\nPlease see the procurement documents for further information.\nThe Council is using the e-procurement portal known as the Proactis Pro-Contract portal https://procontract.due-north.com to conduct this procurement exercise.\nTo gain access to the procurement documents, bidders will need to register their company details at the above website. Once registered, bidders will be emailed a log-in and password which will allow them to gain access to the procurement documents. Bidders will need to search for the invitation under Wychavon District Council and then electronically submit an expression of interest and follow the online instructions to view the procurement documents.",
+   "end": "2031-01-31",
+   "first_seen": "2026-11-26",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c4df",
+   "lots": [
+    {
+     "end": "2031-01-31",
+     "max_end": "2035-01-31",
+     "sme": true,
+     "start": "2027-04-01",
+     "title": "",
+     "value": 6490000.0
+    }
+   ],
+   "max_end": "2035-01-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://procontract.due-north.com",
+   "postcodes": [],
+   "published": "2026-11-26",
+   "raw_title": "Public Open Spaces & Verges Maintenance Contract",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-04-01",
+   "status": "open",
+   "title": "Public Open Spaces & Verges Maintenance Contract",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-26T15:12:19Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112215-2026",
+   "value": 6490000.0
+  },
+  "fts:ocds-h6vhtk-07c551": {
+   "areas": [
+    "nottinghamshire"
+   ],
+   "buyer": "Mansfield District Council",
+   "buyer_code": "UKF15",
+   "buyer_postcode": "NG19 7BH",
+   "buyer_town": "Mansfield",
+   "calloff": false,
+   "codes": [
+    "UKF15"
+   ],
+   "contact": {
+    "email": "procurement@mansfield.gov.uk"
+   },
+   "cpv": [
+    "70333000",
+    "90910000",
+    "98341000"
+   ],
+   "deadline": "2027-01-08T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Nottinghamshire County Council is seeking tenders, on behalf of Mansfield District Council (MDC) (the Council) for the provision of Cleaning, Property Clearance and Vulnerable Tenant Decant Services\nMansfield District Council (the Council) requires a responsive, flexible and customer-focused Cleaning, Property Clearance and Vulnerable Tenant Decant Service to support the Housing Service in maintaining safe and habitable homes, assisting vulnerable tenants and enabling repair, improvement and refurbishment works.\nThe Contract is divided into two Lots. Tenderers may bid for one Lot or both Lots. The Council reserves the right to award each Lot separately and is not obliged to award both Lots to the same contractor.\nLot Service Principal services\nLot 1 Cleaning and Property Clearance Services General/deep cleaning; specialist cleaning; property clearance; hoarded property clearance; garden clearance; needle/sharps and drug paraphernalia removal; odour neutralisation; hoarded property sanitisation; associated waste handling and disposal.\nLot 2 Vulnerable Tenant Decant Services Outbound and return decants; packing; labelling; inventories where instructed; protection of belongings; loading; transportation; unloading; unpacking where instructed; and associated standard packing-material disposal/recycling.",
+   "end": "2029-02-28",
+   "first_seen": "2026-11-27",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c551",
+   "lots": [
+    {
+     "end": "2029-02-28",
+     "max_end": "2031-02-28",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "Cleaning and Property Clearance Services",
+     "value": 240000.0
+    },
+    {
+     "end": "2029-02-28",
+     "max_end": "2031-02-28",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "Vulnerable Tenant Decant Services",
+     "value": 80000.0
+    }
+   ],
+   "max_end": "2031-02-28",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://app.panacea-software.com/sourceeastmidlands/eRFX-Public/TenderOpportunities.aspx",
+   "postcodes": [],
+   "published": "2026-11-27",
+   "raw_title": "Cleaning, Property Clearance and Vulnerable Tenant Decant Service",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-01",
+   "status": "open",
+   "title": "Cleaning, Property Clearance and Vulnerable Tenant Decant Service",
+   "trades": [
+    "cleaning"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-27T09:54:19Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112432-2026",
+   "value": 320000.0
   }
  }
 }
