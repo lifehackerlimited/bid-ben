@@ -1,5 +1,5 @@
 {
- "fetched_to": "2026-11-27",
+ "fetched_to": "2026-11-28",
  "notices": {
   "cf:ocds-b5fd17-00983290-593e-4cc5-a4e0-9faa9e384f31": {
    "areas": [
@@ -13511,6 +13511,120 @@
    "updated": "2026-11-27T09:54:19Z",
    "url": "https://www.find-tender.service.gov.uk/Notice/112432-2026",
    "value": 320000.0
+  },
+  "fts:ocds-h6vhtk-07c61c": {
+   "areas": [
+    "bristol-and-bath"
+   ],
+   "buyer": "Bristol City Council",
+   "buyer_code": "UKK11",
+   "buyer_postcode": "BS1 5TR",
+   "buyer_town": "Bristol",
+   "calloff": false,
+   "codes": [
+    "UKK11"
+   ],
+   "contact": {
+    "email": "gabriel.mcevoy@bristol.gov.uk",
+    "name": "Gabriel McEvoy"
+   },
+   "cpv": [
+    "77320000"
+   ],
+   "deadline": "2027-01-06T12:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "To tender for a new concessions contract to be the operator for the Bristol Parks Tennis Contract. The operator will be responsible for the day to day running of the courts, including managing memberships, bookings and carrying out routine day to day cleaning. This contract will cover Canford Park, Dingle Close, Eastville Park, Redcatch Park and St George Park tennis courts.",
+   "end": "2032-02-24",
+   "first_seen": "2026-11-27",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c61c",
+   "lots": [
+    {
+     "end": "2032-02-24",
+     "max_end": "2035-02-24",
+     "sme": true,
+     "start": "2027-02-25",
+     "title": "",
+     "value": 1000000.0
+    }
+   ],
+   "max_end": "2035-02-24",
+   "method": "open",
+   "method_text": "Below threshold - open competition",
+   "portal": "https://procontract.due-north.com/Advert?advertId=3d2cf896-7fea-f111-8142-6045bdf14b1f",
+   "postcodes": [],
+   "published": "2026-11-27",
+   "raw_title": "Bristol Tennis Court Operator",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-02-25",
+   "status": "open",
+   "title": "Bristol Tennis Court Operator",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-27T16:36:54Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112768-2026",
+   "value": 1000000.0
+  },
+  "fts:ocds-h6vhtk-07c621": {
+   "areas": [
+    "greater-manchester"
+   ],
+   "buyer": "Manchester City Council",
+   "buyer_code": "UKD33",
+   "buyer_postcode": "M60 2LA",
+   "buyer_town": "Manchester",
+   "calloff": false,
+   "codes": [
+    "UKD33"
+   ],
+   "contact": {
+    "email": "procurement@manchester.gov.uk"
+   },
+   "cpv": [
+    "77314000",
+    "77320000"
+   ],
+   "deadline": "2026-12-23T11:00:00Z",
+   "deadline_kind": "bid",
+   "desc": "Manchester City Council is seeking to appoint a contractor to provide bowling green maintenance services across 11 bowling greens located within parks throughout Manchester. The contract includes the provision of routine and specialist bowling green maintenance operations, associated grounds maintenance activities, and the supply of all labour, machinery, equipment, materials and supervision necessary to maintain the sites to the required standards throughout the contract term.\nThe Council is using the e-business portal known as the Chest. Applicants will need to register their details at the following link www.the-chest.org.uk . Once registered, applicants will be emailed a log-in and password which will allow them to gain access to the documentation relating to this opportunity.",
+   "end": "2029-02-28",
+   "first_seen": "2026-11-27",
+   "framework": false,
+   "id": "fts:ocds-h6vhtk-07c621",
+   "lots": [
+    {
+     "end": "2029-02-28",
+     "max_end": "2031-03-31",
+     "sme": true,
+     "start": "2027-03-01",
+     "title": "",
+     "value": 459375.0
+    }
+   ],
+   "max_end": "2031-03-31",
+   "method": "open",
+   "method_text": "Open procedure",
+   "portal": "https://procontract.due-north.com/Procurer/Advert/View?advertId=613d69e5-b1e9-f111-8142-6045bdf14b1f&fromAdvertEvent=True",
+   "postcodes": [],
+   "published": "2026-11-27",
+   "raw_title": "Bowling Green Maintenance",
+   "regions": [],
+   "sme": true,
+   "src": "fts",
+   "start": "2027-03-01",
+   "status": "open",
+   "title": "Bowling Green Maintenance",
+   "trades": [
+    "grounds-maintenance"
+   ],
+   "uk_wide": false,
+   "updated": "2026-11-27T16:52:51Z",
+   "url": "https://www.find-tender.service.gov.uk/Notice/112777-2026",
+   "value": 459375.0
   }
  }
 }
